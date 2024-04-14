@@ -1,0 +1,2313 @@
+URL,Blocked,Blocking Method,category
+https://twitter.com/,No,,Social networking
+https://www.facebook.com/,No,,Social networking
+https://www.instagram.com/,No,,Media Sharing
+https://www.youtube.com/,No,,Media Sharing
+https://www.reddit.com/,No,,News Media
+https://signal.org/,No,,Communication tools
+https://telegram.org/,No,,Communication tools
+https://vimeo.com/,No,,Media Sharing
+https://www.snapchat.com/,No,,Communication tools
+https://www.viber.com/,Yes,http-failure,Communication tools
+https://www.wechat.com/,No,,Communication tools
+https://www.whatsapp.com/,No,,Communication tools
+https://9gag.com/,No,,Social networking
+https://adium.im/,No,,Social networking
+https://badoo.com/,No,,Social networking
+http://blogmarks.net/,No,,Social networking
+https://bsky.app/,No,,Social networking
+https://cdn.fbsbx.com/favicon.ico,No,,Social networking
+https://clubhouse.pubnub.com/,No,,Social networking
+https://ebuddy.com/,No,,Social networking
+https://edge-chat.instagram.com/robots.txt,No,,Social networking
+https://edge-mqtt.facebook.com/favicon.ico,No,,Social networking
+https://elpha.com/,No,,Social networking
+https://external.xx.fbcdn.net/robots.txt,No,,Social networking
+https://fbcdn.net/robots.txt,No,,Social networking
+https://foursquare.com/,No,,Social networking
+https://gettr.com/,No,,Social networking
+https://groups.google.com/,No,,Social networking
+https://i.instagram.com/robots.txt,No,,Social networking
+https://i.pinimg.com/236x/78/6e/00/786e00eab219eca59803d118fbe0feb3.jpg,No,,Social networking
+https://instagram.fsaw1-13.fna.fbcdn.net/favicon.ico,No,,Social networking
+https://joinmastodon.org/,No,,Social networking
+https://kiwifarms.net/,No,,Social networking
+https://locals.com/,No,,Social networking
+https://lookaside.facebook.com/robots.txt,No,,Social networking
+https://mastodon.cloud/,No,,Social networking
+https://mastodon.sdf.org/,No,,Social networking
+https://mastodon.social/,No,,Social networking
+https://mastodon.xyz/,No,,Social networking
+https://mstdn.io/,No,,Social networking
+https://mstdn.jp/,No,,Social networking
+https://myspace.com/,No,,Social networking
+https://ntc.party/,Yes,http-failure,Social networking
+https://pbs.twimg.com/profile_images/941658150889054208/lFeD3554_200x200.jpg,No,,Social networking
+https://pixelfed.social/,No,,Social networking
+https://plus.im/,No,,Social networking
+https://preview.redd.it/robots.txt,No,,Social networking
+https://qph.fs.quoracdn.net/main-thumb-1117688072-200-uijiqfjcmlvaxczdrlawbgyaomfocdnt.jpeg,No,,Social networking
+https://qsbr.fs.quoracdn.net/-4-web.entry.js.out-34-8f7d03da0b7a24ae.webpack,No,,Social networking
+https://s.pinimg.com/robots.txt,No,,Social networking
+https://scontent-frt3-2.cdninstagram.com/favicon.ico,No,,Social networking
+https://scontent-vie1-1.cdninstagram.com/favicon.ico,No,,Social networking
+https://scontent.cdninstagram.com/robots.txt,No,,Social networking
+https://secondlife.com/,No,,Social networking
+https://static.cdninstagram.com/robots.txt,No,,Social networking
+https://static.xx.fbcdn.net/favicon.ico,No,,Social networking
+https://staticxx.facebook.com/robots.txt,No,,Social networking
+https://styles.redditmedia.com/robots.txt,No,,Social networking
+https://tinder.com/,No,,Social networking
+https://triller.co/,No,,Social networking
+https://untappd.com/,No,,Social networking
+https://valence.community/,No,,Social networking
+https://video.cdninstagram.com/favicon.ico,No,,Social networking
+https://video.twimg.com/tweet_video/EC6DSXDXsAEhHAa.mp4,No,,Social networking
+https://vk.com/,Yes,http-failure,Social networking
+https://web.facebook.com/robots.txt,No,,Social networking
+https://weibo.com/,No,,Social networking
+https://www.clubhouse.com/,No,,Social networking
+https://www.clubhouseapi.com/,No,,Social networking
+https://www.douyin.com/,No,,Social networking
+https://www.facebook.com/RTNews,No,,Social networking
+https://www.hootsuite.com/,No,,Social networking
+https://www.imqq.com/,No,,Social networking
+https://www.joinclubhouse.com/,No,,Social networking
+https://www.meetme.com/,No,,Social networking
+https://www.meetup.com/,No,,Social networking
+https://www.minds.com/,No,,Social networking
+https://www.ning.com/,No,,Social networking
+https://www.patreon.com/,No,,Social networking
+https://www.quora.com/,No,,Social networking
+https://www.redditstatic.com/robots.txt,No,,Social networking
+https://www.tiktok.com/,No,,Social networking
+https://www.trendsmap.com/,No,,Social networking
+https://www.worldpulse.com/,No,,Social networking
+https://www.yelp.com/,No,,Social networking
+https://www.yubo.live/,No,,Social networking
+https://x.com/,No,,Social networking
+https://1.1.1.1/,No,,Anonymization and circumvention tools
+https://4genderjustice.org/,No,,Human rights issues
+https://76crimes.com/,No,,LGBT
+http://abc.go.com/,No,,News Media
+http://abubelal1951.blogspot.com/,Yes,http-diff,Human rights issues
+https://actionaid.org/,No,,Human rights issues
+http://adenalyoum.com/,No,,News Media
+https://advox.globalvoices.org/,No,,Human rights issues
+http://aftabnews.ir/,No,,News Media
+https://afterellen.com/,No,,LGBT
+http://al-herak.com/,Yes,http-diff,Political Criticism
+http://alef.ir/,Yes,http-diff,News Media
+http://aletejahtv.com/,No,,Political Criticism
+http://alhakk.net/,No,,News Media
+https://alkhaleejonline.net/,Yes,http-failure,News Media
+https://allout.org/,No,,LGBT
+http://almotamar.net/news/,Yes,http-diff,News Media
+https://alqst.org/,Yes,http-failure,Human rights issues
+https://alwatanpress.com/,Yes,http-failure,News Media
+https://ammartalk.com/,No,,News Media
+https://amnesty.no/aksjon/saudi-arabia-loslat-raif-badawi,No,,Human rights issues
+http://angryarab.blogspot.com/,No,,Political Criticism
+https://annabaa.org/,Yes,http-failure,Human rights issues
+https://anon.inf.tu-dresden.de/,Yes,http-failure,Anonymization and circumvention tools
+http://anonymizer.secuser.com/,Yes,http-diff,Anonymization and circumvention tools
+https://antivigilancia.org/,No,,Human rights issues
+https://ar-ar.facebook.com/Scandalsofalsaud/,No,,Political Criticism
+https://ar-ar.facebook.com/The.Danger.of.Wahhabism/,No,,Political Criticism
+https://ar-ar.facebook.com/alqst.org/,No,,Political Criticism
+https://ar.vpnmentor.com/,Yes,http-failure,Anonymization and circumvention tools
+https://ara.privateinternetaccess.com/,Yes,http-failure,Anonymization and circumvention tools
+https://arabi21.com/,Yes,http-failure,News Media
+https://arabic.cnn.com/,No,,News Media
+http://arabic.farsnews.com/,No,,News Media
+http://arabic.peopledaily.com.cn/,No,,News Media
+https://arabicpost.net/,Yes,http-failure,News Media
+https://arabturkey.com/,Yes,dns,News Media
+https://arb.majalla.com/,No,,News Media
+https://arc-international.net/,No,,LGBT
+https://arij.net/,No,,News Media
+https://asiatimes.com/,No,,News Media
+http://assabeel.net/,Yes,http-diff,News Media
+https://atlasofsurveillance.org/,No,,Human rights issues
+https://banthis.tv/,No,,News Media
+http://bbcarabic.com/,No,,News Media
+https://bedayaa.org/,No,,LGBT
+https://beheard.salamatech.org/ar,No,,Anonymization and circumvention tools
+https://bi.org/,No,,LGBT
+https://boingboing.net/,No,,News Media
+https://bouncer.ooni.io/,No,,Human rights issues
+https://bridges.torproject.org/,Yes,http-failure,Anonymization and circumvention tools
+https://brothersroad.org/,No,,LGBT
+https://btguard.com/,Yes,http-failure,Anonymization and circumvention tools
+https://carnegieendowment.org/,No,,Political Criticism
+https://ccrjustice.org/,No,,Human rights issues
+http://cdhr-ap.com/,Yes,http-diff,Human rights issues
+https://cdns.grindr.com/,No,,LGBT
+https://cdt.org/,No,,Human rights issues
+https://censorship.no/,No,,Anonymization and circumvention tools
+https://certbot.eff.org/,No,,Human rights issues
+https://citizenlab.ca/,No,,Human rights issues
+https://creativecommons.org/,No,,News Media
+https://cryptome.org/,No,,Political Criticism
+https://cryptpad.fr/,No,,Anonymization and circumvention tools
+https://cyber.harvard.edu/,No,,Human rights issues
+https://dartcenter.org/,No,,News Media
+https://dawnmena.org/,Yes,http-failure,Human rights issues
+https://ddosecrets.com/,No,,Human rights issues
+https://disclose.ngo/,No,,Political Criticism
+https://dn42.dev/Home,No,,Anonymization and circumvention tools
+http://doc.aljazeera.net/,No,,News Media
+https://download.cnet.com/Freegate/3000-2085_4-10415391.html,No,,File Sharing
+https://dubaiexpo2020.co/,Yes,tcp_ip,Human rights issues
+https://edition.cnn.com/,No,,News Media
+https://elaph.com/,No,,News Media
+https://emiratesleaks.com/,No,,Political Criticism
+https://en.wikipedia.org/wiki/List_of_LGBT_awareness_periods,No,,Culture
+https://en.wikipedia.org/wiki/Sex_and_gender_distinction,No,,Culture
+https://epic.org/,No,,Human rights issues
+https://equal-eyes.org/,No,,LGBT
+https://euromedrights.org/,No,,Human rights issues
+https://explorer.ooni.org/,No,,Human rights issues
+http://fedaa.alwehda.gov.sy/,No,,News Media
+https://feminist.org/,No,,Human rights issues
+https://fleegle.mixmin.net/,No,,Anonymization and circumvention tools
+https://foreignpolicy.com/,No,,News Media
+https://freedomhouse.org/,No,,Human rights issues
+https://freemuse.org/,No,,Human rights issues
+https://freenetproject.org/,No,,Anonymization and circumvention tools
+https://freeraifbadawi.wordpress.com/call-to-president-hollande/,No,,Human rights issues
+https://freespeech.org/,No,,Human rights issues
+https://freespeechdebate.com/,No,,Political Criticism
+http://fteproxy.org/,No,,Anonymization and circumvention tools
+https://gayguide.net/,Yes,http-failure,LGBT
+https://gaymenshealth.org/,No,,LGBT
+http://gaymorocco.yoo7.com/,No,,LGBT
+https://gayswithoutborders.wordpress.com/,No,,LGBT
+https://genderandaids.unwomen.org/,No,,Human rights issues
+https://geti2p.net/,Yes,http-failure,Anonymization and circumvention tools
+https://getlantern.org/,Yes,http-failure,Anonymization and circumvention tools
+https://getoutline.org/,No,,Anonymization and circumvention tools
+https://globalpressjournal.com/,No,,News Media
+https://globalvoices.org/,No,,Human rights issues
+https://gpgtools.org/,No,,Anonymization and circumvention tools
+https://grindr.mobi/,Yes,http-failure,LGBT
+https://guardianproject.info/,No,,Anonymization and circumvention tools
+http://guardster.com/,Yes,http-diff,Anonymization and circumvention tools
+http://hakr-man.yoo7.com/,No,,LGBT
+https://help.unhcr.org/,No,,Human rights issues
+https://hide.me/,Yes,dns,Anonymization and circumvention tools
+http://hizb-ut-tahrir.info/,No,,Political Criticism
+https://hola.org/,Yes,http-failure,Anonymization and circumvention tools
+https://hornet.com/,Yes,http-failure,LGBT
+http://hournews.net/,Yes,http-diff,News Media
+https://i2p2.de/,No,,Anonymization and circumvention tools
+https://i2pd.website/,No,,Anonymization and circumvention tools
+https://i2pforum.net/,No,,Anonymization and circumvention tools
+https://i2pgit.org/,No,,Anonymization and circumvention tools
+http://ibb-press.net/index.php,No,,News Media
+https://ifeminists.com/,No,,Human rights issues
+https://ij.org/,No,,Human rights issues
+https://ikhwanonline.com/,Yes,http-failure,Political Criticism
+https://ikhwansyria.com/,No,,Political Criticism
+https://imaanlondon.wordpress.com/,No,,LGBT
+https://indymedia.org/,No,,News Media
+http://instinctmagazine.com/,No,,LGBT
+https://internationalfamilyequalityday.org/,No,,LGBT
+https://ipi.media/,No,,News Media
+http://islah.org.uk/arabic/,No,,Political Criticism
+http://islamion.com/,Yes,http-diff,News Media
+https://itgetsbetter.org/,No,,LGBT
+https://iyfglobal.org/,No,,Human rights issues
+http://jamahir.alwehda.gov.sy/,No,,News Media
+http://javanonline.ir/,No,,News Media
+https://jezebel.com/,No,,News Media
+http://justicewomen.com/,No,,Human rights issues
+https://kaleidoscopetrust.com/,No,,LGBT
+http://karamah.org/,No,,Human rights issues
+http://khabaragency.net/,No,,News Media
+http://khilafah.net/,Yes,http-diff,Terrorism and Militants
+https://kolektiva.social/,No,,Political Criticism
+https://kwirmedia.com/,No,,LGBT
+https://laborrights.org/,No,,Human rights issues
+http://lahjnews.net/news/,Yes,http-diff,News Media
+https://lalgbtcenter.org/,No,,LGBT
+http://lambdalegal.org/,No,,LGBT
+https://lantern.io/,No,,Anonymization and circumvention tools
+https://leap.se/,No,,Anonymization and circumvention tools
+https://lgbt.foundation/,Yes,http-failure,LGBT
+https://lgbtnewsnow.org/,No,,LGBT
+https://lgbtvacationplanners.com/,No,,LGBT
+https://liveuamap.com/,No,,News Media
+https://lokinet.org/,No,,Anonymization and circumvention tools
+https://londonqueermuslims.com/,Yes,tcp_ip,LGBT
+https://majal.org/ahwaa,No,,LGBT
+https://makkahnewspaper.com/,No,,News Media
+https://marebpress.net/,No,,News Media
+https://mask-h2.icloud.com/,No,,Anonymization and circumvention tools
+https://mask.icloud.com/,No,,Anonymization and circumvention tools
+https://massbrowser.cs.umass.edu/,No,,Anonymization and circumvention tools
+https://mbsmetoo.org/,No,,Political Criticism
+https://mega.io/,No,,Anonymization and circumvention tools
+https://middle-east-online.com/,No,,News Media
+https://middleeasttransparent.com/en/,No,,Political Criticism
+https://minorityrights.org/,No,,Human rights issues
+http://moia.gov.sy/portal/site/arabic/,No,,News Media
+https://multiproxy.org/,Yes,http-failure,Anonymization and circumvention tools
+https://mutsaween.wordpress.com/,No,,LGBT
+https://nabaa.tv/,Yes,http-failure,Political Criticism
+http://nabdalsharea.com/,No,,News Media
+https://ncac.org/,No,,Human rights issues
+https://neilalexander.s3.dualstack.eu-west-2.amazonaws.com/deb/key.txt,No,,Anonymization and circumvention tools
+http://news-ksa.com/,No,,News Media
+https://news.google.com/,No,,News Media
+https://nordvpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://nottrees.com/,No,,Anonymization and circumvention tools
+https://now.org/,No,,Human rights issues
+https://nypost.com/,No,,News Media
+https://omaimanajjar.wordpress.com/,No,,Human rights issues
+https://ooni.torproject.org/,Yes,http-failure,Anonymization and circumvention tools
+https://opennet.net/,No,,Human rights issues
+https://openvpn.net/,Yes,http-failure,Anonymization and circumvention tools
+https://otr.cypherpunks.ca/,No,,Anonymization and circumvention tools
+https://ourworldindata.org/,No,,News Media
+https://outrightinternational.org/,No,,LGBT
+https://pridesource.com/article/top-10-international-lgbt-stories-of-2018/,No,,LGBT
+https://prism-break.org/,No,,Anonymization and circumvention tools
+https://proxy.i2phides.me/,No,,Anonymization and circumvention tools
+http://proxy.org/,Yes,http-diff,Anonymization and circumvention tools
+https://radiofreel.github.io/,No,,Anonymization and circumvention tools
+https://radiofreel.gitlab.io/,No,,Anonymization and circumvention tools
+https://rassd.com/,Yes,http-failure,News Media
+https://reclaimthenet.org/,No,,News Media
+https://reliefweb.int/,No,,Human rights issues
+http://ren.tv/,No,,News Media
+https://reproductiverights.org/,No,,Human rights issues
+https://rhr.org.il/eng/,No,,Human rights issues
+http://riyadhpost.live/,No,,News Media
+http://sabaah.dk/,No,,LGBT
+http://sabanews.net/ar/,Yes,http-diff,News Media
+http://sabq.org/,No,,News Media
+https://salamatechwiki.org/,No,,Anonymization and circumvention tools
+https://saudijeans.org/,No,,News Media
+https://saudiwoman.me/,No,,Human rights issues
+https://sea-watch.org/,No,,Human rights issues
+https://secure.avaaz.org/,Yes,http-failure,Human rights issues
+https://shadowsocks.org/,No,,Anonymization and circumvention tools
+https://sites.google.com/view/meemmuslim-en/resources?authuser=0,No,,Hosting and Blogging Platforms
+https://slashdot.org/,No,,News Media
+http://smotrim.ru/,No,,News Media
+https://speedify.com/,No,,Anonymization and circumvention tools
+https://sputnikarabic.ae/,No,,News Media
+https://sputnikglobe.com/,No,,News Media
+https://sputniknews.com/,No,,News Media
+https://ssd.eff.org/,No,,Human rights issues
+https://substack.com/,No,,News Media
+https://surfshark.com/,Yes,http-failure,Anonymization and circumvention tools
+https://syria.news/,No,,News Media
+https://syria.press/,No,,News Media
+http://syriahomenews.com/,No,,News Media
+http://syrianownews.com/,No,,News Media
+https://tacticaltech.org/,No,,News Media
+http://thawra.sy/,No,,News Media
+https://thequeerarabs.com/,No,,LGBT
+https://threema.ch/,No,,Anonymization and circumvention tools
+https://timcast.com/,No,,News Media
+https://timesofindia.indiatimes.com/,No,,News Media
+https://tor.eff.org/,Yes,http-failure,Anonymization and circumvention tools
+https://twitter.com/TurkiShalhoub,No,,Social networking
+https://twitter.com/salman_alodah,No,,Social networking
+https://unwatch.org/,No,,Human rights issues
+http://wahabia.com/ar/,No,,Political Criticism
+https://wearechange.org/,No,,News Media
+https://wedo.org/,No,,Human rights issues
+https://weneedprivacy.com/,No,,Anonymization and circumvention tools
+https://wfrtds.org/,No,,Human rights issues
+https://wickr.com/,No,,Anonymization and circumvention tools
+https://wikileaks.org/,No,,Political Criticism
+https://world.internationalism.org/,No,,Political Criticism
+http://www.1asir.com/news/,No,,News Media
+http://www.26sep.net/,Yes,http-diff,News Media
+https://www.accessnow.org/,No,,Human rights issues
+https://www.advocate.com/,Yes,http-failure,News Media
+https://www.afp.com/,No,,News Media
+http://www.ahewar.org/,Yes,http-diff,Political Criticism
+http://www.akhbarturkiya.com/,No,,News Media
+http://www.al-jamaa.org/,No,,Political Criticism
+http://www.al-jazirahonline.com/news/,No,,News Media
+http://www.al-madina.com/,No,,News Media
+https://www.al-sharq.com/,No,,News Media
+https://www.alahednews.com.lb/,Yes,http-failure,News Media
+http://www.alalam.ir/,Yes,http-diff,News Media
+https://www.alalamtv.net/,Yes,http-failure,News Media
+https://www.alaraby.co.uk/,Yes,dns,News Media
+https://www.alaraby.co.uk/portal,Yes,dns,News Media
+https://www.albawaba.com/,Yes,http-failure,News Media
+https://www.aljazeera.com/,No,,News Media
+https://www.aljazeera.net/,No,,News Media
+http://www.alkarama.org/en,Yes,http-diff,Human rights issues
+http://www.almaaref.org/,Yes,http-diff,News Media
+https://www.almanar.com.lb/,Yes,http-failure,News Media
+https://www.almasdaronline.com/,No,,News Media
+http://www.almasirah.net/,Yes,http-diff,News Media
+http://www.almayadeen.net/,Yes,http-diff,News Media
+http://www.almokhtsar.com/,No,,News Media
+http://www.almowaten.net/,No,,News Media
+http://www.alolaa.net/,Yes,http-diff,News Media
+http://www.alqassam.ps/arabic/index.php,No,,Terrorism and Militants
+https://www.altamkeen.net/,No,,News Media
+http://www.althawranews.net/,Yes,http-diff,News Media
+https://www.alwatanvoice.com/,No,,News Media
+http://www.alyaum.com/,No,,News Media
+http://www.amelnews.com/,Yes,http-diff,News Media
+https://www.amnesty.org/,No,,Human rights issues
+http://www.amnestyusa.org/the-state-of-lgbt-rights-worldwide/,No,,LGBT
+http://www.anhri.net/ifex/alerts/saudi/,Yes,http-diff,Human rights issues
+http://www.ansarallah.net/,No,,News Media
+http://www.ansarollah.com/,No,,News Media
+https://www.anti-cair-net.org/,No,,Human rights issues
+https://www.arabichotspotshield.com/,No,,Anonymization and circumvention tools
+http://www.arabmail.de/,No,,News Media
+https://www.arabnews.com/,No,,News Media
+http://www.argaam.com/,No,,News Media
+https://www.article19.org/,Yes,http-failure,Human rights issues
+http://www.asriran.com/,Yes,http-diff,News Media
+http://www.aswatmag.com/,No,,LGBT
+https://www.awid.org/,No,,Human rights issues
+https://www.azzaman.com/,No,,News Media
+http://www.bbc.co.uk/arabic/,No,,News Media
+https://www.bbc.co.uk/,No,,News Media
+https://www.bbc.com/,No,,News Media
+http://www.behidden.com/,No,,Anonymization and circumvention tools
+https://www.beirutpride.org/,No,,LGBT
+https://www.benedelman.org/,No,,News Media
+https://www.betternet.co/,Yes,http-failure,Anonymization and circumvention tools
+http://www.bicommunitynews.co.uk/,No,,LGBT
+https://www.bnaibrith.org/,No,,Human rights issues
+https://www.business-humanrights.org/,No,,Human rights issues
+https://www.cartercenter.org/,No,,Human rights issues
+https://www.cato.org/,No,,Human rights issues
+http://www.cb.gov.qa/English/Pages/default.aspx,Yes,tcp_ip,News Media
+https://www.cbc.ca/,No,,News Media
+https://www.cbsnews.com/,No,,News Media
+http://www.cesr.org/,No,,Human rights issues
+https://www.cfr.org/backgrounder/same-sex-marriage-global-comparisons,No,,LGBT
+http://www.champress.net/,No,,News Media
+https://www.change.org/p/mr-rob-nicholson-protect-raif-badawi-from-further-whippings-and-do-everything-you-can-to-secure-his-freedom,No,,Human rights issues
+https://www.childrensdefense.org/,No,,Human rights issues
+https://www.childsrights.org/en/,No,,Human rights issues
+https://www.chinadaily.com.cn/,No,,News Media
+https://www.chinatimes.com/,No,,News Media
+https://www.churchofeuthanasia.org/,Yes,http-failure,Political Criticism
+http://www.cidh.org/,No,,Human rights issues
+https://www.clintonfoundation.org/,No,,Political Criticism
+http://www.coptic.net/,Yes,http-diff,Human rights issues
+https://www.cpj.org/,No,,Human rights issues
+https://www.crisisgroup.org/,No,,Human rights issues
+https://www.csmonitor.com/,No,,News Media
+https://www.currenttime.tv/,No,,News Media
+http://www.cwgl.rutgers.edu/,No,,Human rights issues
+https://www.cyber-arabs.com/,No,,Anonymization and circumvention tools
+https://www.cyberghostvpn.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.dailymail.co.uk/,No,,News Media
+https://www.dailysabah.com/,Yes,http-failure,News Media
+https://www.dailywire.com/,No,,News Media
+http://www.dampress.net/,Yes,http-diff,News Media
+http://www.daralakhbar.com/,No,,News Media
+http://www.defendingwomen-defendingrights.org/,No,,Human rights issues
+https://www.democracycaucus.net/,No,,Political Criticism
+https://www.democracynow.org/,No,,News Media
+http://www.dit-inc.us/,Yes,http-diff,Anonymization and circumvention tools
+https://www.dw.com/,No,,News Media
+http://www.e-mailaat.com/,No,,News Media
+http://www.ecequality.org/,No,,LGBT
+https://www.echr.coe.int/,No,,Human rights issues
+https://www.eluniversal.com/,No,,News Media
+https://www.eurobicon.org/,No,,LGBT
+https://www.exgay.com/,No,,LGBT
+https://www.exitinternational.net/,No,,Human rights issues
+https://www.expressvpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://www.f-secure.com/en/home/products/freedome/,No,,Anonymization and circumvention tools
+http://www.faifaonline.net/portal/,No,,News Media
+https://www.familyequality.org/events/international-family-equality-day/,No,,LGBT
+http://www.farsnews.com/,No,,News Media
+https://www.feminist.com/,No,,Human rights issues
+https://www.fidh.org/,No,,Human rights issues
+https://www.foxnews.com/,No,,News Media
+https://www.france24.com/ar/,No,,News Media
+http://www.freedominfo.org/,No,,Human rights issues
+http://www.freemuslim.org/,No,,Human rights issues
+https://www.freespeech.com/,No,,Human rights issues
+https://www.freespeechcoalition.com/,Yes,http-failure,Human rights issues
+https://www.frontlinedefenders.org/,No,,Human rights issues
+https://www.ft.com/,No,,News Media
+http://www.ftchinese.com/,No,,News Media
+http://www.gay.com/,Yes,http-diff,LGBT
+http://www.gayegypt.com/,Yes,http-diff,LGBT
+http://www.gayscape.com/,Yes,http-diff,LGBT
+https://www.gaystarnews.com/,Yes,http-failure,LGBT
+https://www.gc4hr.org/,Yes,http-failure,Human rights issues
+https://www.getoutline.org/,No,,Anonymization and circumvention tools
+http://www.ghanoondaily.ir/fa,No,,News Media
+http://www.glaad.org/,No,,LGBT
+http://www.glbtqarchive.com/,No,,LGBT
+http://www.glil.org/,No,,LGBT
+https://www.globaleaks.org/,No,,Human rights issues
+https://www.globalfundforwomen.org/,No,,Human rights issues
+https://www.globalpride2020.org/,No,,LGBT
+http://www.globalr2p.org/,No,,Human rights issues
+https://www.glsen.org/,No,,LGBT
+http://www.gmhc.org/,Yes,http-diff,LGBT
+https://www.gnu.org/,No,,Anonymization and circumvention tools
+https://www.gnupg.org/,No,,Anonymization and circumvention tools
+http://www.google.com/search?q=gay,No,,LGBT
+http://www.google.com/search?q=lesbian,No,,LGBT
+http://www.granma.cu/,No,,News Media
+https://www.guerrillagirls.com/,Yes,http-failure,Human rights issues
+https://www.gulf-times.com/,No,,News Media
+https://www.haaretz.co.il/,No,,News Media
+https://www.haaretz.com/,No,,News Media
+https://www.haaretz.com/life/five-films-you-have-to-see-at-tel-aviv-s-international-lgbt-film-festival-1.7338266,No,,News Media
+http://www.hadash.org.il/,No,,Political Criticism
+http://www.hamshahrionline.ir/,No,,News Media
+https://www.herdict.org/,No,,Human rights issues
+https://www.hidayahlgbt.co.uk/,No,,LGBT
+https://www.hotspotshield.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.hrc.org/,No,,LGBT
+http://www.hrusa.org/,No,,Human rights issues
+http://www.http-tunnel.com/,No,,Anonymization and circumvention tools
+https://www.huffpost.com/,No,,News Media
+https://www.humanrightsconnected.org/,No,,Human rights issues
+http://www.humanrightsfirst.org/,No,,Human rights issues
+http://www.humum.net/,Yes,http-diff,Human rights issues
+http://www.hurriyetdailynews.com/,Yes,dns,News Media
+https://www.hyphanet.org/,No,,Anonymization and circumvention tools
+https://www.icc-cpi.int/,No,,Human rights issues
+https://www.icij.org/,No,,News Media
+https://www.icj.org/,No,,Political Criticism
+http://www.icrw.org/,No,,Human rights issues
+https://www.ictj.org/,No,,Human rights issues
+http://www.idea.int/,No,,Political Criticism
+http://www.ifex.org/,No,,Human rights issues
+http://www.ifge.org/,No,,LGBT
+http://www.ifj.org/,No,,Human rights issues
+http://www.ihf-hr.org/,No,,Human rights issues
+http://www.ihrc.org/,No,,Human rights issues
+http://www.ikhwan.sd/,No,,Political Criticism
+http://www.ikhwanonline.com/,Yes,http-diff,Political Criticism
+http://www.ikhwanpress.com/,No,,Political Criticism
+http://www.ikhwantube.com/,No,,Political Criticism
+https://www.ikhwanweb.com/,No,,Political Criticism
+http://www.ikhwanwiki.com/,Yes,http-diff,Political Criticism
+https://www.ilga-europe.org/,No,,LGBT
+http://www.ilo.org/,No,,Human rights issues
+http://www.indiatimes.com/,No,,News Media
+https://www.infowars.com/,No,,News Media
+http://www.inminds.co.uk/,No,,Political Criticism
+https://www.ipetitions.com/,No,,Human rights issues
+https://www.ipredator.se/,Yes,http-failure,Anonymization and circumvention tools
+https://www.ipvanish.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.irannuc.ir/,No,,News Media
+http://www.irinn.ir/,Yes,tcp_ip,News Media
+http://www.irna.ir/,Yes,http-diff,News Media
+http://www.isiswomen.org/,No,,Human rights issues
+http://www.iskcon.com/,No,,Human rights issues
+https://www.islamtimes.org/,Yes,http-failure,Political Criticism
+https://www.ivpn.net/,Yes,http-failure,Anonymization and circumvention tools
+http://www.jazannews.org/,Yes,http-diff,News Media
+http://www.jhr.ca/,No,,Human rights issues
+https://www.jihadwatch.org/,Yes,http-failure,Political Criticism
+http://www.jmarshall.com/,No,,Anonymization and circumvention tools
+http://www.jmarshall.com/tools/cgiproxy/,Yes,http-diff,Anonymization and circumvention tools
+http://www.kabobfest.com/,No,,News Media
+http://www.kcna.kp/,Yes,http-failure,News Media
+http://www.khamenei.ir/,Yes,http-diff,News Media
+http://www.khilafah.com/,No,,Political Criticism
+http://www.khrp.org/,No,,Human rights issues
+https://www.knapsackforhope.org/,No,,Anonymization and circumvention tools
+http://www.kolalwatn.net/,No,,News Media
+http://www.laborrightsnow.org/,No,,Human rights issues
+http://www.lanacion.com.ar/,No,,News Media
+https://www.laquadrature.net/,No,,Human rights issues
+http://www.latimes.com/,No,,News Media
+http://www.lemonde.fr/,No,,News Media
+https://www.lgbtarabic.com/,Yes,tcp_ip,LGBT
+http://www.lgbtmuslimretreat.com/,No,,LGBT
+https://www.lightsailvpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://www.logmein.com/,No,,Anonymization and circumvention tools
+http://www.loujainhathloul.com/,No,,Human rights issues
+https://www.madre.org/,No,,Human rights issues
+http://www.mainichi.co.jp/,No,,News Media
+http://www.makkahgate.net/,Yes,http-diff,News Media
+https://www.manal-alsharif.com/,No,,Human rights issues
+https://www.martus.org/,No,,Human rights issues
+https://www.mc-doualiya.com/,No,,News Media
+http://www.mcs.gov.qa/,No,,News Media
+https://www.megaproxy.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.mepanorama.net/,Yes,http-diff,News Media
+https://www.middleeasteye.net/,Yes,http-failure,News Media
+https://www.middleeastmonitor.com/,No,,News Media
+http://www.mirataljazeera.org/,Yes,http-diff,Political Criticism
+http://www.mizzima.com/,No,,News Media
+https://www.mofa.gov.qa/,No,,News Media
+https://www.mombian.com/,No,,LGBT
+https://www.mormon.org/,No,,Human rights issues
+https://www.muckrock.com/,No,,News Media
+https://www.mykalimag.com/,No,,LGBT
+https://www.namecoin.org/,No,,Anonymization and circumvention tools
+http://www.namlc.gov.qa/,No,,News Media
+http://www.naral.org/,No,,News Media
+https://www.nbc.com/,No,,News Media
+https://www.nbcnews.com/,No,,News Media
+http://www.nclrights.org/,No,,LGBT
+https://www.ndi.org/,No,,Political Criticism
+http://www.ned.org/,No,,Human rights issues
+http://www.newnownext.com/,No,,LGBT
+http://www.newnownext.com/franchise/the-backlot/,No,,LGBT
+http://www.news-sa.com/,No,,News Media
+https://www.newtactics.org/ar,No,,Anonymization and circumvention tools
+https://www.nifty.org/,Yes,http-failure,LGBT
+https://www.njal.la/,No,,Anonymization and circumvention tools
+http://www.noonpost.com/,Yes,http-diff,News Media
+https://www.nostraightnews.com/,No,,LGBT
+https://www.ntv.ru/,No,,News Media
+https://www.nytimes.com/,No,,News Media
+https://www.occrp.org/,No,,Political Criticism
+http://www.ohchr.org/english/bodies/hrcouncil/,No,,Human rights issues
+https://www.ohchr.org/,No,,Human rights issues
+https://www.ohchr.org/en/issues/sexualorientationgender/pages/index.aspx,No,,Human rights issues
+http://www.ohmynews.com/,No,,News Media
+http://www.omct.org/,No,,Human rights issues
+https://www.omct.org/,No,,Human rights issues
+http://www.oneworld.net/,No,,Human rights issues
+http://www.onlinewomeninpolitics.org/,No,,Human rights issues
+https://www.opendns.com/,No,,Anonymization and circumvention tools
+https://www.openingblockedsite.com/,No,,Anonymization and circumvention tools
+https://www.openpgp.org/,No,,Anonymization and circumvention tools
+https://www.opensocietyfoundations.org/,No,,Political Criticism
+https://www.opentech.fund/,No,,Human rights issues
+http://www.ortas.gov.sy/,No,,News Media
+http://www.osce.org/,No,,News Media
+https://www.ou.org/,No,,Human rights issues
+https://www.out.com/,No,,LGBT
+http://www.pcusa.org/,No,,Human rights issues
+http://www.pdhre.org/,No,,Human rights issues
+http://www.peacefire.org/circumventor/simple-circumventor-instructions.html,Yes,http-diff,Anonymization and circumvention tools
+https://www.pen-international.org/news/saudi-arabia-imprisoned-editor-raif-badawi-may-face-death-penalty,No,,News Media
+http://www.people.com.cn/,No,,News Media
+https://www.pinkcupid.com/,No,,LGBT
+https://www.pinknews.co.uk/,No,,LGBT
+https://www.piratenpartei.ch/,No,,Political Criticism
+http://www.piratpartiet.se/,No,,Political Criticism
+https://www.planetromeo.com/,Yes,http-failure,LGBT
+http://www.pravda.ru/,No,,News Media
+https://www.pridemedia.com/,Yes,http-failure,LGBT
+https://www.privacidade.digital/,No,,Anonymization and circumvention tools
+https://www.privacyinternational.org/,No,,Human rights issues
+https://www.privacytools.io/,No,,Human rights issues
+https://www.privateinternetaccess.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.privaterra.org/,No,,Human rights issues
+https://www.projectveritas.com/,No,,News Media
+https://www.propublica.org/,No,,News Media
+https://www.proteachin.com/,No,,Anonymization and circumvention tools
+https://www.protectioninternational.org/,No,,Human rights issues
+http://www.protest.net/,No,,Human rights issues
+http://www.proxyarab.com/,Yes,http-diff,Anonymization and circumvention tools
+https://www.purevpn.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.qatar-tribune.com/,Yes,http-diff,News Media
+http://www.qhnews.com/,No,,News Media
+http://www.qhtyzx.com/,No,,News Media
+http://www.qtv.qa/,No,,News Media
+http://www.quantico.marines.mil/,No,,News Media
+https://www.queer-refugees.hamburg/,No,,LGBT
+http://www.queernet.org/,Yes,http-diff,LGBT
+https://www.queerty.com/,No,,LGBT
+http://www.radicalparty.org/,No,,Human rights issues
+https://www.radiosawa.com/,No,,News Media
+https://www.raialyoum.com/,No,,News Media
+https://www.raifbadawi.org/,No,,Human rights issues
+https://www.rambler.ru/,No,,News Media
+https://www.raya.com/,No,,News Media
+https://www.refugeesinternational.org/,No,,Human rights issues
+http://www.religioustolerance.org/,No,,Human rights issues
+https://www.reprolegalhelpline.org/,No,,Human rights issues
+http://www.repubblica.com/,No,,News Media
+https://www.rescue.org/,No,,Human rights issues
+https://www.reuters.com/,No,,News Media
+https://www.rfa.org/,No,,Human rights issues
+https://www.rferl.org/,No,,News Media
+http://www.rfi.fr/,No,,News Media
+http://www.righttodie.ca/,No,,Human rights issues
+https://www.rsssd.com/,Yes,tcp_ip,News Media
+https://www.rt.com/,No,,News Media
+https://www.rtarabic.com/,No,,News Media
+http://www.ruf-ch.org/,No,,News Media
+http://www.saadahpress.net/news/,Yes,http-diff,News Media
+http://www.saadalfagih.com/,No,,Political Criticism
+https://www.salaamcanada.info/,No,,LGBT
+https://www.salamatech.org/,No,,Anonymization and circumvention tools
+http://www.samesexmarriage.ca/,Yes,http-diff,LGBT
+https://www.sasapost.com/,No,,News Media
+http://www.saudiaffairs.net/,Yes,http-diff,Political Criticism
+https://www.savethechildren.net/,No,,Human rights issues
+http://www.sbc.net/,No,,Human rights issues
+https://www.sbs.com.au/language/coronavirus?cid=infocus,No,,News Media
+https://www.scruff.com/,Yes,http-failure,LGBT
+https://www.secfirst.org/,No,,Human rights issues
+https://www.securityinabox.org/,No,,Anonymization and circumvention tools
+https://www.shoe.org/,Yes,http-failure,LGBT
+https://www.singlewindow.gov.qa/BookServ/,No,,News Media
+http://www.slaati.com/,No,,News Media
+http://www.sos-reporters.net/,No,,News Media
+https://www.spiegel.de/,No,,News Media
+http://www.sputniknews.cn/,No,,News Media
+http://www.ssrcaw.org/,Yes,http-diff,Political Criticism
+https://www.starlink.com/,No,,Anonymization and circumvention tools
+https://www.stonewall.org.uk/,No,,LGBT
+http://www.stopstreetharassment.org/,No,,Human rights issues
+http://www.stupidcensorship.com/,Yes,dns,Anonymization and circumvention tools
+https://www.surfeasy.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.syria-scope.com/,No,,News Media
+http://www.tabnak.ir/,Yes,http-diff,News Media
+https://www.taha.news/,No,,News Media
+http://www.tasnimnews.com/,Yes,http-diff,News Media
+https://www.telegraph.co.uk/,No,,News Media
+https://www.terredeshommes.nl/,No,,Human rights issues
+https://www.theatlantic.com/,No,,News Media
+http://www.theepochtimes.com/,No,,News Media
+http://www.thegailygrind.com/,Yes,http-diff,LGBT
+https://www.theguardian.com/,No,,News Media
+https://www.thepetitionsite.com/takeaction/468/812/764/,Yes,tcp_ip,Human rights issues
+http://www.theregister.co.uk/,No,,News Media
+https://www.thetrevorproject.org/,No,,LGBT
+https://www.toopenblockedsites.com/,No,,Anonymization and circumvention tools
+https://www.torproject.org/,Yes,http-failure,Anonymization and circumvention tools
+http://www.towleroad.com/,No,,LGBT
+http://www.transparency.org/,No,,Political Criticism
+https://www.trtarabi.com/,Yes,http-failure,News Media
+http://www.tsroadmap.com/,Yes,http-diff,LGBT
+https://www.tunnelbear.com/,Yes,http-failure,Anonymization and circumvention tools
+https://www.turk-now.com/,No,,News Media
+https://www.turk.life/,No,,News Media
+http://www.turkey-post.net/,No,,News Media
+https://www.turkeytoday.net/,No,,News Media
+http://www.turkishpress.com/,No,,News Media
+http://www.turkpress.co/,Yes,http-diff,News Media
+http://www.tvc.ru/,No,,News Media
+http://www.twasul.info/,No,,News Media
+http://www.u4.no/,No,,Political Criticism
+http://www.ucc.org/,No,,Human rights issues
+http://www.ultimate-anonymity.com/,Yes,http-diff,Anonymization and circumvention tools
+https://www.unfe.org/,No,,LGBT
+http://www.unfpa.org/,No,,Human rights issues
+http://www.unfpa.org/swp,No,,Human rights issues
+http://www.unhcr.org/,No,,Human rights issues
+https://www.unicef.org/,No,,Human rights issues
+https://www.unwomen.org/en/news/stories/2019/5/compilation-lgbti-activists-to-know,No,,LGBT
+https://www.unwomen.org/en/news/stories?topic=f8c6fb042b184dd482c36bf10173a6aa,No,,LGBT
+https://www.uproxy.org/,Yes,http-failure,Anonymization and circumvention tools
+https://www.urduvoa.com/,No,,News Media
+https://www.usatoday.com/,No,,News Media
+http://www.vesti.ru/,No,,News Media
+https://www.vesti.ru/,No,,News Media
+https://www.vice.com/,No,,News Media
+http://www.voanews.com/,No,,News Media
+https://www.vpngate.net/,Yes,http-failure,Anonymization and circumvention tools
+https://www.vpnunlimited.com/,No,,Anonymization and circumvention tools
+http://www.warchild.org/,No,,Human rights issues
+https://www.washingtonpost.com/,No,,News Media
+http://www.washingtontimes.com/,No,,News Media
+https://www.watan.com/,Yes,http-failure,News Media
+https://www.watanserb.com/,Yes,http-failure,News Media
+http://www.well.com/,No,,LGBT
+http://www.well.com/user/queerjhd/,No,,LGBT
+http://www.wftucentral.org/,No,,Human rights issues
+http://www.whatreallyhappened.com/,No,,News Media
+https://www.wiesenthal.com/,No,,Human rights issues
+https://www.wilpf.org/,No,,Human rights issues
+https://www.witness.org/,No,,Human rights issues
+http://www.wluml.org/,No,,Human rights issues
+http://www.wnd.com/,No,,News Media
+https://www.womenonwaves.org/,No,,Human rights issues
+https://www.womenonweb.org/,No,,Human rights issues
+http://www.womensmediacenter.com/,No,,Human rights issues
+http://www.womenwarpeace.org/,No,,Human rights issues
+http://www.worldcoalition.org/,No,,Human rights issues
+https://www.wsj.com/,No,,News Media
+http://www.xinhuanet.com/,No,,News Media
+https://www.xroxy.com/,No,,Anonymization and circumvention tools
+http://www.yemen-24.com/,Yes,http-diff,News Media
+http://www.yemenat.net/,Yes,http-diff,News Media
+https://www.youtube.com/channel/UC_fNP2ettM5ius4BZ6G7MOg,No,,Media Sharing
+https://www.youtube.com/user/aljazeerachannel,No,,Media Sharing
+https://www.zamanarabic.com/,No,,News Media
+http://www.zeit.de/,No,,News Media
+https://xn--ngbsg7dyao.xyz/,No,,Anonymization and circumvention tools
+http://xxx.lanl.gov/,No,,News Media
+https://yggdrasil-network.github.io/,No,,Anonymization and circumvention tools
+https://zenvpn.net/,Yes,http-failure,Anonymization and circumvention tools
+http://3arbt.com/,No,,Media Sharing
+https://a.slack-edge.com/f70ec/img/test_cdn_pixel.gif,No,,Communication tools
+https://a3chabe.com/public-health,No,,Public Health
+https://about.riot.im/,No,,Communication tools
+http://abpr2.railfan.net/,No,,Media Sharing
+https://account.proton.me/,No,,Communication tools
+http://anakbnet.co/,No,,Media Sharing
+https://app.developer.here.com/coronavirus/,No,,Public Health
+https://app.element.io/,No,,Communication tools
+https://app.simplelogin.io/,No,,Communication tools
+https://app.slack.com/robots.txt,No,,Communication tools
+https://app.wire.com/,No,,Communication tools
+https://apps.crowdtangle.com/public-hub/covid19,No,,Public Health
+https://arab.phonezik.net/,No,,Media Sharing
+https://arabseed.me/,Yes,http-failure,Media Sharing
+https://arabseed.tv/,Yes,http-failure,Media Sharing
+http://arabsong.top/index.php,No,,Media Sharing
+https://arabtigers.com/,Yes,tcp_ip,Media Sharing
+https://archive.ph/,No,,Media Sharing
+https://avatars.mds.yandex.net/robots.txt,No,,Search Engines
+https://bard.google.com/,No,,Search Engines
+https://briarproject.org/,No,,Communication tools
+https://cc.bingj.com/cache.aspx?q=nothing,No,,Search Engines
+https://censored.tv/,No,,Media Sharing
+https://cf-ipfs.com/,No,,Communication tools
+https://chat-gpt.org/,No,,Search Engines
+https://chat.openai.com/,No,,Search Engines
+https://cid.contact/,No,,Communication tools
+http://cima4u.tv/,Yes,http-diff,Media Sharing
+http://cima4up.co/,Yes,http-diff,Media Sharing
+https://cinemata.org/,No,,Media Sharing
+https://circumcision.org/,No,,Public Health
+https://cloudflare-ipfs.com/,No,,Communication tools
+https://cocaine.org/,No,,Public Health
+https://coronavirus.app/,No,,Public Health
+https://coronavirus.jhu.edu/map.html,No,,Public Health
+https://covidtracking.com/,No,,Public Health
+https://cwtch.im/,No,,Communication tools
+https://delta.chat/,No,,Communication tools
+https://discord.com/,No,,Communication tools
+http://discord.gg/,No,,Communication tools
+https://discordapp.com/,No,,Communication tools
+https://disqus.com/,No,,Communication tools
+https://dit.whatsapp.net/robots.txt,No,,Communication tools
+https://dl.acm.org/,No,,Media Sharing
+https://duckduckgo.com/,No,,Search Engines
+https://dweb.link/,No,,Communication tools
+https://ehealthsa.com/,No,,Public Health
+https://element.io/,No,,Communication tools
+https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic,No,,Culture
+https://encrypted-tbn0.gstatic.com/robots.txt,No,,Search Engines
+http://epilepsyinarabic.com/site/,No,,Public Health
+https://espiv.net/,No,,Communication tools
+https://evernote.com/,No,,Media Sharing
+https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd,No,,Public Health
+https://external-content.duckduckgo.com/robots.txt,No,,Search Engines
+https://getsession.org/,No,,Communication tools
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6,No,,Public Health
+https://go-text.me/,No,,Communication tools
+https://google.org/crisisresponse/covid19-map,No,,Public Health
+https://hangouts.google.com/,No,,Communication tools
+https://hgis.uw.edu/virus/,No,,Public Health
+https://icao.maps.arcgis.com/apps/opsdashboard/index.html#/977dde48256b489fb48fa98e724721e8,No,,Public Health
+https://icao.maps.arcgis.com/apps/webappviewer3d/index.html?id=d9d3f8fa9a23425c8f0889baab626186,No,,Public Health
+https://icq.com/,No,,Communication tools
+https://ifacetimeapp.com/,No,,Communication tools
+https://im0-tub-com.yandex.net/i?id=462f375c96139f1e41d919b44be2d780&n=13&exp=1,Yes,tcp_ip,Search Engines
+https://imageshack.com/,No,,Media Sharing
+https://imgur.com/,No,,Media Sharing
+http://imo.im/,Yes,http-diff,Communication tools
+https://imp.free.fr/,No,,Communication tools
+https://instaview.me/ar,No,,Media Sharing
+https://ipfs.io/,No,,Communication tools
+https://jami.net/,No,,Communication tools
+https://journals.lww.com/,No,,Public Health
+https://kick.com/,No,,Media Sharing
+https://kidshealth.org/,No,,Public Health
+https://lableb.com/,No,,Search Engines
+https://lbry.com/,No,,Media Sharing
+https://lbry.org/,No,,Media Sharing
+https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.google.com%2Fimages%2Fbranding%2Fgooglelogo%2F1x%2Fgooglelogo_color_150x54dp.png&hl=en-US&ep=gisb,No,,Search Engines
+https://line.me/,No,,Communication tools
+https://livestream.com/,No,,News Media
+https://login.live.com/,No,,Communication tools
+https://mail.google.com/,No,,Communication tools
+https://mail.proton.me/,No,,Communication tools
+https://mail.ru/,No,,News Media
+https://mail.yahoo.com/,No,,Communication tools
+https://mail.yandex.ru/,No,,Communication tools
+https://maktoob.yahoo.com/,No,,Search Engines
+https://matrix-client.matrix.org/_matrix/client/versions,No,,Communication tools
+https://matrix.org/,No,,Communication tools
+https://matrix.to/,No,,Communication tools
+https://mattermost.com/,No,,Communication tools
+https://mawdoo3.com/,No,,Search Engines
+https://media-arn2-1.cdn.whatsapp.net/robots.txt,No,,Communication tools
+https://media.fevn1-1.fna.whatsapp.net/robots.txt,No,,Communication tools
+https://meet.jit.si/,No,,Communication tools
+http://melody4arab.com/,Yes,http-diff,Media Sharing
+https://messages.google.com/,No,,Communication tools
+https://mmg.whatsapp.net/robots.txt,No,,Communication tools
+https://mobile.element.io/,No,,Communication tools
+http://movizland.online/,Yes,http-diff,Media Sharing
+https://mp3songs.alarab.com/,Yes,http-failure,Media Sharing
+https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher,No,,Public Health
+https://mytrans.com.tw/,No,,Communication tools
+https://nextstrain.org/ncov,No,,Public Health
+https://nogomistars.com/,Yes,tcp_ip,Media Sharing
+https://nostr.com/,No,,Communication tools
+https://nssac.bii.virginia.edu/covid-19/dashboard/,No,,Public Health
+https://obsproject.com/,No,,Media Sharing
+https://odysee.com/,No,,Media Sharing
+https://openobservatory.slack.com/,No,,Communication tools
+https://opera.com/,Yes,tcp_ip,Anonymization and circumvention tools
+https://outlook.live.com/,No,,Communication tools
+https://photos.google.com/,No,,Media Sharing
+https://pinboard.in/,No,,Media Sharing
+https://posteo.de/,No,,Communication tools
+https://postimage.io/,No,,Media Sharing
+https://pps.whatsapp.net/robots.txt,No,,Communication tools
+https://presearch.com/,No,,Search Engines
+https://presearch.org/,No,,Search Engines
+https://rmdan.tv/,No,,Media Sharing
+https://rumble.com/,No,,Media Sharing
+http://saautism.org/autism/,No,,Public Health
+http://sakhr.com/,No,,Communication tools
+http://saudicancer.org/,No,,Public Health
+http://sdea.org.sa/,No,,Public Health
+https://search.aol.com/,No,,Search Engines
+https://search.brave.com/,No,,Search Engines
+https://secure.flickr.com/,No,,Media Sharing
+https://secure.hi5.com/,No,,Communication tools
+https://site.voicepulse.com/,No,,Communication tools
+https://slack-imgs.com/,No,,Communication tools
+https://slack.com/,No,,Communication tools
+https://spideroak.com/,No,,Media Sharing
+https://st1.zoom.us/zoom.ico,No,,Communication tools
+https://startpage.com/,No,,Search Engines
+https://status.im/,No,,Communication tools
+http://stc.com.sa/,No,,Communication tools
+http://stealthchat.com/,Yes,tcp_ip,Communication tools
+https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0,No,,Public Health
+https://support.therapytribe.com/hivaids-support-group/,No,,Public Health
+https://t.me/,No,,Communication tools
+https://tamtam.chat/,No,,Communication tools
+https://teams.microsoft.com/,No,,Communication tools
+https://telegram.me/,No,,Communication tools
+https://test-ipv6.com/,No,,Communication tools
+https://th.bing.com/th/id/OIP.YnpdokcN_OQYn3n41AlqZAHaEe?w=250&h=180&c=7&o=5&pid=1.7,No,,Search Engines
+https://translate.google.com/,No,,Communication tools
+https://translation2.paralink.com/,No,,Communication tools
+https://transparencyreport.google.com/,No,,Search Engines
+https://trello.com/,No,,Communication tools
+https://tse1.explicit.bing.net/robots.txt,Yes,http-failure,Search Engines
+https://tuta.com/,No,,Communication tools
+https://tx.me/,No,,Communication tools
+https://vector.im/_matrix/identity/api/v1,No,,Communication tools
+https://video-preview.s3.yandex.net/robots.txt,No,,Search Engines
+https://video.google.com/,No,,Search Engines
+https://video.mzarita.tv/,No,,Media Sharing
+https://web.wechat.com/,No,,Communication tools
+https://webcache.googleusercontent.com/robots.txt,No,,Search Engines
+https://wire.com/,No,,Communication tools
+https://www.3rbdr.net/,No,,Public Health
+https://www.4helal.tv/,No,,Media Sharing
+http://www.almisbar.com/,No,,Communication tools
+http://www.alsolb.com/,No,,Public Health
+https://www.altibbi.com/,No,,Public Health
+https://www.ananzi.co.za/,No,,Search Engines
+http://www.arabo.com/,No,,Search Engines
+http://www.ask.com/,No,,Search Engines
+https://www.asterisk.org/,No,,Communication tools
+https://www.baidu.com/,No,,Search Engines
+https://www.bbc.com/news/world-51235105,No,,News Media
+https://www.bbm.com/,No,,Communication tools
+https://www.bing.com/,No,,Search Engines
+https://www.bing.com/covid,No,,Search Engines
+https://www.bitchute.com/,No,,Media Sharing
+https://www.bittorrent.com/,No,,Media Sharing
+https://www.blackberry.com/,No,,Media Sharing
+https://www.broadvoice.com/,No,,Communication tools
+http://www.callserve.com/,No,,Communication tools
+https://www.cdc.gov/,No,,Public Health
+https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html,No,,Public Health
+http://www.cirp.org/,No,,Public Health
+https://www.dailymotion.com/,No,,Media Sharing
+https://www.dardarkom.tv/,Yes,tcp_ip,Media Sharing
+http://www.dca.org.sa/Pages/default.aspx,No,,Public Health
+https://www.doctissimo.fr/,No,,Public Health
+https://www.doctoori.net/,No,,Public Health
+https://www.doctorswithoutborders.org/,No,,Public Health
+http://www.dogpile.com/,No,,Search Engines
+https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases,No,,Public Health
+https://www.ectaco.com/,No,,Communication tools
+https://www.engenderhealth.org/,No,,Public Health
+http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19,Yes,tcp_ip,Public Health
+http://www.euthanasia.cc/,No,,Public Health
+https://www.excite.com/,No,,Search Engines
+https://www.familycareintl.org/,No,,Public Health
+https://www.farfeshplus.com/,Yes,http-failure,Media Sharing
+https://www.fastmail.com/,No,,Communication tools
+https://www.flickr.com/,No,,Media Sharing
+https://www.fotki.com/,No,,Media Sharing
+http://www.fotolog.com/,No,,Media Sharing
+https://www.freepik.com/,No,,Media Sharing
+https://www.gatesfoundation.org/,No,,Public Health
+http://www.getdrupe.com/,No,,Communication tools
+https://www.gmx.com/,No,,Communication tools
+https://www.google.com/,No,,LGBT
+https://www.health.com/,No,,Public Health
+https://www.healthmap.org/covid-19/,No,,Public Health
+http://www.hi-mama.com/,No,,Public Health
+https://www.hightail.com/,No,,Media Sharing
+http://www.hon.ch/,No,,Public Health
+https://www.hotbot.com/,No,,Search Engines
+https://www.hushmail.com/,No,,Communication tools
+https://www.iconnecthere.com/,No,,Communication tools
+http://www.implantinfo.com/,No,,Public Health
+http://www.inbox.com/,No,,Communication tools
+http://www.isscr.org/,No,,Public Health
+https://www.jabber.ru/,No,,Communication tools
+http://www.keptprivate.com/,No,,Communication tools
+https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/,No,,Public Health
+http://www.last.fm/,No,,Media Sharing
+http://www.lingo.com/,No,,Communication tools
+http://www.linphone.org/,No,,Communication tools
+https://www.liveleak.com/,No,,Media Sharing
+http://www.lycos.com/,No,,Search Engines
+http://www.magicjack.com/,No,,Communication tools
+https://www.mail.com/,No,,Communication tools
+http://www.mail.lycos.com/,No,,Communication tools
+http://www.mail2web.com/,No,,Communication tools
+http://www.mailinator.com/,No,,Communication tools
+https://www.mamma.com/,No,,Search Engines
+https://www.marefa.org/,No,,Search Engines
+https://www.mariestopes.org.uk/,No,,Public Health
+http://www.medecinsdumonde.org/,No,,Public Health
+https://www.mediafire.com/,No,,Media Sharing
+http://www.mediall1.com/,No,,Public Health
+http://www.medicinenet.com/,No,,Public Health
+https://www.messenger.com/,No,,Communication tools
+http://www.metacafe.com/,No,,Media Sharing
+http://www.metacrawler.com/,No,,Search Engines
+https://www.microsoft.com/,No,,Communication tools
+http://www.microsofttranslator.com/,No,,Communication tools
+https://www.mojeek.com/,No,,Search Engines
+http://www.msf.org/,No,,Public Health
+https://www.msn.com/,No,,Search Engines
+http://www.mywebcalls.com/,Yes,tcp_ip,Communication tools
+https://www.nbcnewyork.com/news/national-international/map-watch-the-coronavirus-cases-spread-across-the-world/2303276/,No,,Public Health
+http://www.netaddress.com/,No,,Communication tools
+https://www.netaddress.com/,No,,Communication tools
+https://www.netflix.com/,No,,Media Sharing
+http://www.netzoola.com/,No,,Communication tools
+https://www.nghmaty.com/,No,,Media Sharing
+http://www.no-porn.com/,No,,Public Health
+http://www.nsaem.net/videos/,Yes,http-diff,Media Sharing
+https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html,No,,News Media
+http://www.on-instant.com/,No,,Communication tools
+http://www.online-translator.com/,No,,Communication tools
+http://www.oovoo.com/,No,,Media Sharing
+https://www.openstreetmap.org/,No,,Search Engines
+http://www.paltalk.com/,No,,Communication tools
+http://www.pandora.com/,Yes,http-diff,Media Sharing
+http://www.pc2call.com/,Yes,tcp_ip,Communication tools
+http://www.photobucket.com/,No,,Media Sharing
+https://www.pinterest.com/,No,,Media Sharing
+https://www.postmaster.co.uk/,No,,Communication tools
+https://www.projectbaseline.com/study/covid-19/,No,,Public Health
+https://www.proton.me/,No,,Communication tools
+http://www.raddadi.com/,No,,Search Engines
+https://www.raddadi.com/,No,,Search Engines
+https://www.rki.de/,No,,Public Health
+https://www.sahafah24.net/index.php,Yes,http-failure,Search Engines
+https://www.se7a4evryone.com/,No,,Public Health
+https://www.search.com/,No,,Search Engines
+http://www.searchindia.com/,No,,Search Engines
+http://www.securenym.net/,No,,Communication tools
+https://www.seha-tok.com/,No,,Public Health
+https://www.sehaama.com/,No,,Public Health
+http://www.sehha.com/index.shtml,No,,Public Health
+https://www.sendspace.com/,Yes,http-failure,Media Sharing
+https://www.sendthisfile.com/,No,,Media Sharing
+https://www.series4watch.online/,No,,Media Sharing
+http://www.sina.com.cn/,No,,Search Engines
+https://www.skype.com/,No,,Communication tools
+http://www.slideshare.net/,No,,Media Sharing
+http://www.ssfcm.org/public/,No,,Public Health
+https://www.startmail.com/,No,,Communication tools
+https://www.subscribestar.com/,No,,Media Sharing
+http://www.systranbox.com/,No,,Communication tools
+http://www.talkyou.me/,No,,Communication tools
+http://www.tango.me/,No,,Media Sharing
+https://www.tarjem.com/,No,,Communication tools
+https://www.tawk.to/,No,,Communication tools
+https://www.ted.com/,No,,Media Sharing
+https://www.textra.me/,No,,Communication tools
+http://www.theglobalfund.org/,No,,Public Health
+http://www.tialsoft.com/download/,No,,Communication tools
+http://www.tialsoft.com/multitranse/,No,,Communication tools
+https://www.transferbigfiles.com/,No,,Media Sharing
+http://www.translate.ru/,No,,Communication tools
+http://www.transwhiz.com/,No,,Communication tools
+https://www.truecaller.com/,Yes,http-failure,Communication tools
+https://www.tumblr.com/,No,,Media Sharing
+https://www.twitch.tv/,No,,Media Sharing
+http://www.unaids.org/,No,,Public Health
+https://www.ushareit.com/,No,,Media Sharing
+http://www.veoh.com/,No,,Media Sharing
+http://www.viber.com/,Yes,http-diff,Communication tools
+https://www.vonage.com/,No,,Communication tools
+http://www.webbox.com/index.php,No,,Communication tools
+https://www.webteb.com/,No,,Public Health
+http://www.whitepages.com/,No,,Communication tools
+https://www.who.int/,No,,Public Health
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/,No,,Public Health
+https://www.who.int/health-topics/hiv-aids/,No,,Public Health
+http://www.wordreference.com/,No,,Communication tools
+http://www.wordreference.com/enfr/test,No,,Communication tools
+http://www.worldhealth.net/,No,,Public Health
+https://www.worldometers.info/coronavirus/,No,,Public Health
+https://www.y2mate.com/,No,,Media Sharing
+https://www.yahoo.com/,No,,Search Engines
+https://www.yamli.com/ar/,No,,Search Engines
+http://www.zzn.com/,No,,Communication tools
+https://ya.ru/,No,,Search Engines
+http://yaarabi.com/,No,,Search Engines
+https://yandex.com/,No,,Communication tools
+https://yandexwebcache.net/robots.txt,No,,Search Engines
+https://yomlek.com/,No,,Media Sharing
+https://zoom.us/,No,,Communication tools
+https://1.0.0.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://1.0.0.3/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://1.1.1.1/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Anonymization and circumvention tools
+https://1.1.1.3/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://149.112.112.9/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://350.org/,No,,Enviroment
+https://8.8.4.4/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://8.8.8.8/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://8kun.top/,No,,Hosting and Blogging Platforms
+https://9.9.9.9/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://abortion.eu/,No,,Sex Education
+https://abortionfunds.org/,No,,Sex Education
+https://abortionnetwork.amsterdam/,No,,Sex Education
+https://abortionpillinfo.org/,No,,Sex Education
+https://acwua.org/,No,,Enviroment
+https://aidaccess.org/,No,,Sex Education
+https://ajax.aspnetcdn.com/ajax/4.5.2/1/MicrosoftAjax.js,No,,Hosting and Blogging Platforms
+http://al-shia.org/,No,,Religion
+http://alalbayt.com/,No,,Religion
+https://aljens.info/,No,,Sex Education
+http://alkhoei.org/,No,,Religion
+http://alsayeda.net/,No,,Sex Education
+https://amp.cloudflare.com/v0/amp-iframe-0.1.js,No,,Hosting and Blogging Platforms
+https://android.apis.google.com/robots.txt,No,,Hosting and Blogging Platforms
+https://android.googleapis.com/robots.txt,No,,Hosting and Blogging Platforms
+https://answering-islam.org/,Yes,http-failure,Religion
+https://api.github.com/,No,,Hosting and Blogging Platforms
+https://apps.apple.com/us/developer/apple/id284417353/,No,,Hosting and Blogging Platforms
+https://ar.islamway.net/,Yes,http-failure,Religion
+https://arabic.al-shia.org/,No,,Religion
+https://archive.is/,No,,Hosting and Blogging Platforms
+https://archive.org/,No,,Media Sharing
+https://assets.gitlab-static.net/robots.txt,No,,Hosting and Blogging Platforms
+https://bahaieg.org/,No,,Religion
+http://bahaikw.org/,No,,Religion
+https://bahainafeza.wordpress.com/,No,,Religion
+https://beieyksa.com/,No,,Enviroment
+https://bit.ly/,No,,Hosting and Blogging Platforms
+https://bitbucket.org/,No,,Hosting and Blogging Platforms
+https://bitly.com/,No,,Hosting and Blogging Platforms
+https://cdn-client.medium.com/lite/static/js/manifest.ef5f44d2.js,No,,Hosting and Blogging Platforms
+https://cdn.ampproject.org/v0/amp-iframe-0.1.js,No,,Hosting and Blogging Platforms
+https://cdn.jsdelivr.net/favicon.ico,No,,Hosting and Blogging Platforms
+https://cdn.sstatic.net/Img/home/open-source.svg,No,,Hosting and Blogging Platforms
+https://cdnjs.cloudflare.com/,No,,Hosting and Blogging Platforms
+https://centerforinquiry.org/blog/category/secular-islam/,No,,Religion
+https://churchofgodinchristmennonite.net/,No,,Religion
+https://cites.org/,No,,Enviroment
+https://citizensclimatelobby.org/,No,,Enviroment
+https://cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://code.jquery.com/,No,,Hosting and Blogging Platforms
+https://codeberg.org/,Yes,http-failure,Hosting and Blogging Platforms
+https://codeload.github.com/github/rally/tar.gz/v1.0.1,No,,Hosting and Blogging Platforms
+http://darhikma.net/,No,,Religion
+https://data.worldbank.org/topic/environment,No,,Enviroment
+http://debate.org.uk/,No,,Religion
+https://dharmanet.org/,No,,Religion
+https://digital.globalclimatestrike.net/,No,,Enviroment
+https://dl.bintray.com/jfrog/xray/,No,,Hosting and Blogging Platforms
+https://dl.google.com/robots.txt,No,,Hosting and Blogging Platforms
+https://dlive.tv/,No,,Hosting and Blogging Platforms
+https://dns.adguard.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://dns.google/,No,,Hosting and Blogging Platforms
+https://dns.quad9.net/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://docs.github.com/en,No,,Hosting and Blogging Platforms
+https://doh-fi.blahdns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://doh.centraleu.pi-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,Yes,tcp_ip,Hosting and Blogging Platforms
+https://doh.dns.sb/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://doh.opendns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://dorar.net/,No,,Religion
+https://download-installer.cdn.mozilla.net/,No,,Hosting and Blogging Platforms
+https://dzen.ru/,No,,Hosting and Blogging Platforms
+https://earthobservatory.nasa.gov/global-maps,No,,Enviroment
+https://earthwatch.org/,No,,Enviroment
+http://efs.org.sa/index.php/ar/,No,,Enviroment
+https://emchurch.org/,No,,Religion
+https://espivblogs.net/,No,,Hosting and Blogging Platforms
+https://family.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://fcm.googleapis.com/$discovery/rest?version=v1,No,,Hosting and Blogging Platforms
+https://firebaseinstallations.googleapis.com/robots.txt,No,,Hosting and Blogging Platforms
+https://fosfeminista.org/,No,,Sex Education
+https://freedns.afraid.org/,No,,Hosting and Blogging Platforms
+https://fridaysforfuture.org/,No,,Enviroment
+https://friendsoftheearth.uk/,No,,Enviroment
+https://frontlineaids.org/,No,,Sex Education
+https://ghost.org/,No,,Hosting and Blogging Platforms
+https://gist.github.com/discover,No,,Hosting and Blogging Platforms
+https://git.io/,No,,Hosting and Blogging Platforms
+https://github.com/,No,,Hosting and Blogging Platforms
+https://github.com/twbs/bootstrap/releases/download/v4.5.3/bootstrap-4.5.3-examples.zip,No,,Hosting and Blogging Platforms
+https://github.githubassets.com/images/modules/open_graph/github-logo.png,No,,Hosting and Blogging Platforms
+https://gitlab.com/,No,,Hosting and Blogging Platforms
+https://goaskalice.columbia.edu/,No,,Sex Education
+https://greenhost.net/,No,,Hosting and Blogging Platforms
+http://hayatouki.com/,No,,Sex Education
+https://hostkda.com/ar/,Yes,tcp_ip,Hosting and Blogging Platforms
+https://i.ytimg.com/vi/JBRf3nEqfZ8/hq720.jpg,No,,Hosting and Blogging Platforms
+https://iarf.net/,No,,Religion
+https://ijhad.org/,No,,Sex Education
+https://imhussain.com/,No,,Religion
+https://impactlab.org/,No,,Enviroment
+https://irshadmanji.com/,No,,Religion
+https://isaalmasih.net/,No,,Religion
+https://islamonline.net/,No,,Religion
+https://islamqa.info/ar,No,,Religion
+https://islamweb.net/ar/,Yes,http-failure,Religion
+https://jainworld.com/,No,,Religion
+https://jensaneya.org/,Yes,http-failure,Sex Education
+https://krishna.com/,Yes,http-failure,Religion
+https://letsencrypt.org/,No,,Hosting and Blogging Platforms
+https://lh3.ggpht.com/_mm3cDcdhxkc/SzkPLt_zDUI/AAAAAAAAAZM/UplZlTSCVQc/s800/DSC_5305.jpg,No,,Hosting and Blogging Platforms
+https://lh3.googleusercontent.com/favicon.ico,No,,Hosting and Blogging Platforms
+https://lh4.ggpht.com/_PvLDsC2pRvk/ShwiscZujVI/AAAAAAAAFIQ/4q-TYiQ13-k/s512/DSC01330.jpg,No,,Hosting and Blogging Platforms
+https://lmarabic.com/,No,,Sex Education
+http://m3loma.com/,No,,Sex Education
+http://maahadalmahdi.net/,No,,Religion
+https://media0.giphy.com/robots.txt,No,,Hosting and Blogging Platforms
+https://media3.giphy.com/robots.txt,No,,Hosting and Blogging Platforms
+https://medium.com/,No,,Hosting and Blogging Platforms
+https://miro.medium.com/robots.txt,No,,Hosting and Blogging Platforms
+https://moodle.com/,No,,Hosting and Blogging Platforms
+https://movabletype.com/,No,,Hosting and Blogging Platforms
+https://mozilla.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://myabortionstory.tumblr.com/,No,,Sex Education
+https://naja7host.com/,No,,Hosting and Blogging Platforms
+https://nas.net.sa/,No,,Hosting and Blogging Platforms
+http://natural-snc.org/,No,,Enviroment
+https://naturemena.com/,No,,Enviroment
+https://nazarene.org/,No,,Religion
+https://noblogs.org/,No,,Hosting and Blogging Platforms
+https://notifications-pa.googleapis.com/robots.txt,No,,Hosting and Blogging Platforms
+https://oceanconservancy.org/,No,,Enviroment
+https://ooni.github.io/,No,,Hosting and Blogging Platforms
+https://pastebin.com/,No,,Hosting and Blogging Platforms
+https://pingomatic.com/,No,,Hosting and Blogging Platforms
+https://play-lh.googleusercontent.com/SZ7vNaa9txw_JsYsiOOP4_4fOaKfJVMQ-_aM10MW7x93IPDYoqdIkHSw-ffCgBABFSM=s256-rw,No,,Hosting and Blogging Platforms
+https://play.google.com/store/,No,,Hosting and Blogging Platforms
+https://play.googleapis.com/robots.txt,No,,Hosting and Blogging Platforms
+http://pressshia.com/,No,,Religion
+https://private.canadianshield.cira.ca/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB,No,,Hosting and Blogging Platforms
+https://prolife.com/,No,,Sex Education
+https://prq.se/,No,,Hosting and Blogging Platforms
+https://quran.com/?local=en,No,,Religion
+http://r3.o.lencr.org/,No,,Hosting and Blogging Platforms
+https://raw.githubusercontent.com/ooni/spec/master/README.md,No,,Hosting and Blogging Platforms
+https://rebellion.global/,No,,Enviroment
+https://rutube.ru/,No,,Hosting and Blogging Platforms
+https://sahaba.io/reseller-hosting/,No,,Hosting and Blogging Platforms
+https://sexetc.org/,Yes,http-failure,Sex Education
+http://shamash.org/,No,,Religion
+http://shia.org/,No,,Religion
+http://shiaonlinelibrary.com/,No,,Religion
+http://shiarightswatch.org/,No,,Religion
+https://shiavoice.com/,Yes,http-failure,Religion
+https://sites.google.com/,No,,Hosting and Blogging Platforms
+https://solar-aid.org/,No,,Enviroment
+https://srhrforall.org/,No,,Sex Education
+https://stackexchange.com/,No,,Hosting and Blogging Platforms
+https://stackoverflow.com/,No,,Hosting and Blogging Platforms
+https://t.co/,No,,Hosting and Blogging Platforms
+http://tanzil.net/,No,,Religion
+https://technorati.com/,No,,Hosting and Blogging Platforms
+https://telegra.ph/,Yes,http-failure,Hosting and Blogging Platforms
+https://the-arabs.com/,No,,Hosting and Blogging Platforms
+http://thenationalcampaign.org/,No,,Sex Education
+https://tinyurl.com/,No,,Hosting and Blogging Platforms
+https://torah.org/,No,,Religion
+https://turbobit.net/,Yes,http-failure,Hosting and Blogging Platforms
+https://vesselthefilm.com/,No,,Sex Education
+https://we.riseup.net/,No,,Hosting and Blogging Platforms
+http://webarabi.com/,No,,Hosting and Blogging Platforms
+http://weblogs.us/,No,,Hosting and Blogging Platforms
+https://womenhelp.org/,No,,Sex Education
+https://wordpress.com/,No,,Hosting and Blogging Platforms
+https://wordpress.org/,No,,Hosting and Blogging Platforms
+https://write.as/,No,,Hosting and Blogging Platforms
+https://wupj.org/,No,,Religion
+https://wwf.panda.org/,No,,Enviroment
+https://www.100webspace.com/,No,,Hosting and Blogging Platforms
+https://www.1800respect.org.au/languages/,No,,Sex Education
+https://www.abortionno.org/,Yes,http-failure,Sex Education
+https://www.abortoinfosegura.com/,No,,Sex Education
+https://www.adl.org/,No,,Religion
+https://www.adventist.org/,No,,Religion
+https://www.advocatesforyouth.org/,No,,Sex Education
+http://www.ahl-alquran.com/,Yes,http-diff,Religion
+https://www.alhayat.tv/,Yes,http-failure,Religion
+http://www.almeshkat.net/,No,,Religion
+http://www.almoslim.net/,No,,Religion
+https://www.angelfire.lycos.com/,No,,Hosting and Blogging Platforms
+https://www.anglicancommunion.org/,No,,Religion
+http://www.ansarh.com/,Yes,http-diff,Religion
+http://www.ansarweb.net/,Yes,http-diff,Religion
+http://www.aqaed.com/,Yes,http-diff,Religion
+http://www.aqaedalshia.com/,No,,Religion
+https://www.arabhost.com/,No,,Hosting and Blogging Platforms
+https://www.arabicbible.com/,Yes,http-failure,Religion
+http://www.arabwatercouncil.org/,No,,Enviroment
+https://www.atheistalliance.org/,No,,Religion
+https://www.atheists.org/,No,,Religion
+http://www.auduboninternational.org/,No,,Enviroment
+https://www.autistici.org/,No,,Hosting and Blogging Platforms
+https://www.badrnet.net/,No,,Hosting and Blogging Platforms
+http://www.bahai-faith.org/,No,,Religion
+http://www.bahai.com/,Yes,http-diff,Religion
+http://www.bahai.org/,No,,Religion
+https://www.bahai.org/ar/,No,,Religion
+https://www.bahaibh.org/,No,,Religion
+http://www.bahaileb.org/,No,,Religion
+http://www.bahaitn.org/,No,,Religion
+http://www.bahaiye.org/,No,,Religion
+https://www.beintheknow.org/,No,,Sex Education
+https://www.bing-amp.com/v0/amp-iframe-0.1.js,No,,Hosting and Blogging Platforms
+https://www.birthcontrol.com/,No,,Sex Education
+http://www.biz.ly/,No,,Hosting and Blogging Platforms
+http://www.blogeasy.com/,No,,Hosting and Blogging Platforms
+https://www.blogger.com/,No,,Hosting and Blogging Platforms
+http://www.blogsome.com/,No,,Hosting and Blogging Platforms
+https://www.brinkster.com/,No,,Hosting and Blogging Platforms
+http://www.buddhanet.net/,No,,Religion
+https://www.carbonbrief.org/,No,,Enviroment
+https://www.carbonmap.org/,No,,Enviroment
+https://www.catholic.org/,No,,Religion
+https://www.catholicsforchoice.org/,No,,Sex Education
+https://www.ccel.org/,No,,Religion
+https://www.ceceurope.org/,No,,Religion
+https://www.cepf.net/,No,,Enviroment
+https://www.christian-dogma.com/,No,,Religion
+https://www.christianity.com/,No,,Religion
+https://www.christianitytoday.com/,No,,Religion
+https://www.cleanwateraction.org/,No,,Enviroment
+https://www.climaterealityproject.org/,No,,Enviroment
+https://www.coolearth.org/,No,,Enviroment
+https://www.copticchurch.net/,No,,Religion
+https://www.cseindia.org/,No,,Enviroment
+https://www.dailymedicalinfo.com/,No,,Sex Education
+https://www.defendingbahairights.org/,No,,Religion
+https://www.dotster.com/,No,,Hosting and Blogging Platforms
+https://www.dreamhost.com/,No,,Hosting and Blogging Platforms
+https://www.e7kky.com/,No,,Sex Education
+https://www.earthaction.org/,No,,Enviroment
+https://www.earthrights.org/,No,,Enviroment
+http://www.ebaumsworld.com/,No,,Hosting and Blogging Platforms
+https://www.edf.org/,No,,Enviroment
+https://www.edf.org/fight-global-warming,No,,Enviroment
+https://www.eea.europa.eu/,No,,Enviroment
+https://www.eln-voces.com/,No,,Hosting and Blogging Platforms
+https://www.emailaddresses.com/,No,,Hosting and Blogging Platforms
+https://www.enom.com/,No,,Hosting and Blogging Platforms
+https://www.epik.com/,No,,Hosting and Blogging Platforms
+https://www.episcopalchurch.org/,No,,Religion
+https://www.estedafah.com/,No,,Hosting and Blogging Platforms
+https://www.ewg.org/,No,,Enviroment
+https://www.exmormon.org/,No,,Religion
+http://www.fark.com/,No,,Hosting and Blogging Platforms
+http://www.feedo.net/Default.htm,No,,Sex Education
+https://www.fhi360.org/,No,,Sex Education
+https://www.footprintnetwork.org/,No,,Enviroment
+http://www.formercatholic.com/,No,,Religion
+https://www.frc.org/,No,,Religion
+http://www.freehomepage.com/,No,,Hosting and Blogging Platforms
+http://www.freeservers.com/,No,,Hosting and Blogging Platforms
+http://www.freewebspace.com/,No,,Hosting and Blogging Platforms
+https://www.getrevue.co/,No,,Hosting and Blogging Platforms
+https://www.globalwitness.org/,No,,Enviroment
+https://www.goarch.org/,No,,Religion
+https://www.godaddy.com/,No,,Hosting and Blogging Platforms
+http://www.godalone.org/,No,,Religion
+https://www.googleapis.com/auth/cloud-platform,No,,Hosting and Blogging Platforms
+http://www.greennet.org.uk/,No,,Enviroment
+https://www.greenpeace.org/,No,,Enviroment
+http://www.greens-sa.org/,No,,Enviroment
+https://www.gstatic.com/robots.txt,No,,Hosting and Blogging Platforms
+http://www.hostgator.com/,No,,Hosting and Blogging Platforms
+https://www.iaea.org/,No,,Enviroment
+http://www.iavi.org/,No,,Sex Education
+http://www.iico.org/,No,,Religion
+https://www.internationalrivers.org/,No,,Enviroment
+http://www.ipcc.ch/,No,,Enviroment
+http://www.islamdoor.com/,No,,Religion
+http://www.islameyat.com/,Yes,http-diff,Religion
+http://www.islamic-relief.com/,No,,Religion
+http://www.islamicity.com/,No,,Religion
+https://www.islaminstitut.de/en/,No,,Religion
+http://www.itsyoursexlife.com/,Yes,tcp_ip,Sex Education
+https://www.iucn.org/,No,,Enviroment
+https://www.iucnredlist.org/,No,,Enviroment
+http://www.jesussaves.cc/,No,,Religion
+http://www.judaism.com/,No,,Religion
+http://www.judaismconversion.org/,No,,Religion
+https://www.jw.org/,No,,Religion
+http://www.kalam.co.il/,No,,Sex Education
+https://www.leaseweb.com/,No,,Hosting and Blogging Platforms
+http://www.light-of-life.com/,No,,Religion
+http://www.livejournal.com/,No,,Hosting and Blogging Platforms
+https://www.lookserv.com/,No,,Hosting and Blogging Platforms
+http://www.muhammadanism.com/,No,,Religion
+https://www.namecheap.com/,No,,Hosting and Blogging Platforms
+http://www.nature.org/,No,,Enviroment
+http://www.nfdhr.org/,No,,Enviroment
+http://www.no-ip.com/,Yes,http-diff,Hosting and Blogging Platforms
+https://www.oca.org/,No,,Religion
+http://www.oic-oci.org/,Yes,tcp_ip,Religion
+http://www.oicc.org/,No,,Religion
+http://www.oikoumene.org/,No,,Religion
+https://www.om.org/,Yes,http-failure,Religion
+https://www.orangewebsite.com/,No,,Hosting and Blogging Platforms
+http://www.orthodoxconvert.info/,No,,Religion
+https://www.paganpride.org/,No,,Religion
+https://www.persecution.org/,No,,Religion
+http://www.persga.org/,No,,Enviroment
+http://www.peta.org/,No,,Enviroment
+https://www.peta.org/,No,,Enviroment
+https://www.petside.com/,No,,Enviroment
+https://www.plancpills.org/,No,,Sex Education
+https://www.plannedparenthood.org/,No,,Sex Education
+http://www.positive.org/,Yes,http-diff,Sex Education
+https://www.premaritalsex.info/,No,,Sex Education
+https://www.privex.io/,No,,Hosting and Blogging Platforms
+https://www.rabtasunna.com/,No,,Religion
+https://www.rackspace.com/,No,,Hosting and Blogging Platforms
+https://www.rafed.net/ar/,No,,Human rights issues
+http://www.ran.org/,No,,Enviroment
+https://www.ran.org/,No,,Enviroment
+https://www.salvationarmy.org/,No,,Religion
+https://www.saudiahost.com/,No,,Hosting and Blogging Platforms
+https://www.saudiahosting.com/,No,,Hosting and Blogging Platforms
+http://www.scarleteen.com/,Yes,http-diff,Sex Education
+http://www.scientology.org/,No,,Religion
+http://www.sens.org.sa/,No,,Enviroment
+http://www.sexandu.ca/,No,,Sex Education
+http://www.sexandu.ca/fr/,No,,Sex Education
+http://www.sexedlibrary.org/,No,,Sex Education
+https://www.sfsi.org/,No,,Sex Education
+http://www.shiadownload.com/,No,,Religion
+http://www.shinto.org/,No,,Religion
+http://www.siecus.org/,No,,Sex Education
+https://www.sierraclub.org/,No,,Enviroment
+http://www.submission.org/,Yes,http-diff,Religion
+http://www.sunna.info/,Yes,http-diff,Religion
+http://www.survive.org.uk/,No,,Sex Education
+http://www.teenhealthfx.com/,No,,Sex Education
+http://www.teensource.org/,No,,Sex Education
+http://www.the-good-way.com/,Yes,http-diff,Religion
+https://www.thegrace.com/,Yes,http-failure,Religion
+http://www.thekoran.com/,Yes,http-diff,Religion
+http://www.themwl.org/,No,,Religion
+http://www.tripod.lycos.com/,No,,Hosting and Blogging Platforms
+http://www.truthnet.org/,No,,Religion
+http://www.typepad.com/,No,,Hosting and Blogging Platforms
+https://www.ucsusa.org/,No,,Enviroment
+http://www.ultimatebirthcontrol.com/,No,,Sex Education
+http://www.umc.org/,No,,Religion
+https://www.unep.org/,No,,Enviroment
+http://www.upci.org/,No,,Religion
+http://www.vatican.va/,No,,Religion
+http://www.wcicc.org/,No,,Religion
+https://www.webs.com/,No,,Hosting and Blogging Platforms
+https://www.weebly.com/,No,,Hosting and Blogging Platforms
+http://www.wikia.com/fandom,No,,Hosting and Blogging Platforms
+http://www.wix.com/,No,,Hosting and Blogging Platforms
+http://www.worldjewishcongress.org/,No,,Religion
+https://www.worldwildlife.org/,No,,Enviroment
+https://www.xenu.net/,No,,Religion
+https://www.yahosein.com/,Yes,http-failure,Human rights issues
+http://www.ymca.int/,No,,Religion
+https://www.yola.com/,No,,Hosting and Blogging Platforms
+http://www.zaidiah.com/,No,,Religion
+https://www.zanzu.de/ar/,No,,Sex Education
+https://www.zanzu.nl/,No,,Sex Education
+https://www.zoomshare.com/,No,,Hosting and Blogging Platforms
+http://xanga.com/,No,,Culture
+https://xda-developers.com/,No,,Hosting and Blogging Platforms
+https://yt3.ggpht.com/a-/AOh14GhGCI1dxtHOY_TDQfmxDBK_S7CHTPJ3U6zOUw=s480-c-k-c0x00ffffff-no-rj-mo,No,,Hosting and Blogging Platforms
+https://yt4.ggpht.com/a-/AOh14GhOiUxI-RcMC-Vfl2i15v3xewMr8bt2yNXTfw=s480-c-k-c0x00ffffff-no-rj-mo,No,,Hosting and Blogging Platforms
+https://1337x.st/,No,,File Sharing
+https://1337x.to/,No,,File Sharing
+https://911truth.org/,No,,Culture
+https://addons.mozilla.org/,No,,File Sharing
+https://addons.opera.com/en/extensions/,Yes,tcp_ip,File Sharing
+https://ar.m.wikipedia.org/,No,,Culture
+https://ar.wikipedia.org/,No,,Culture
+https://ar4up.com/,No,,File Sharing
+http://arabca.net/,No,,Culture
+https://archiveofourown.org/,No,,Culture
+https://arxiv.org/,No,,File Sharing
+https://bintray.com/,No,,File Sharing
+https://bramjmyegy.co/,No,,File Sharing
+https://ca.wikipedia.org/,No,,Culture
+http://canna.to/,No,,File Sharing
+https://chrome.google.com/webstore/category/extensions,No,,File Sharing
+https://code.org/,No,,Culture
+https://commons.wikimedia.org/,No,,Culture
+https://credibilitycoalition.org/,No,,Culture
+https://crypt.ee/,No,,File Sharing
+https://de.wikipedia.org/,No,,Culture
+https://dfiles.eu/,No,,File Sharing
+https://digg.com/,No,,Culture
+https://docs.google.com/,No,,File Sharing
+https://download.cnet.com/,No,,File Sharing
+https://drive.google.com/,No,,File Sharing
+https://en.m.wikipedia.org/,No,,Culture
+https://en.wikipedia.org/,No,,Culture
+https://ente.io/,No,,File Sharing
+https://es.m.wikipedia.org/,No,,Culture
+https://es.wikipedia.org/,No,,Culture
+https://eztv.ag/,No,,File Sharing
+https://eztv.re/,No,,File Sharing
+https://f-droid.org/,No,,File Sharing
+https://fdroid.tetaneutral.net/fdroid/repo,No,,File Sharing
+https://filen.io/,No,,File Sharing
+https://files.pythonhosted.org/,No,,File Sharing
+https://forum.mhut.org/,No,,File Sharing
+https://fr.wikipedia.org/,No,,Culture
+https://ftp.fau.de/fdroid/repo,No,,File Sharing
+https://hackerspaces.org/,No,,Culture
+https://i.gr-assets.com/robots.txt,No,,Culture
+https://infidels.org/,No,,Culture
+https://int.soccerway.com/,No,,Culture
+https://intelligence.weforum.org/,No,,Intergovernmental Organizations
+https://isa.gov.ly/,No,,Government
+https://it.wikipedia.org/,No,,Culture
+https://ja.wikipedia.org/,No,,Culture
+https://kat.am/,No,,File Sharing
+https://katcr.to/,No,,File Sharing
+https://kickasstorrents.to/,No,,File Sharing
+http://kremlin.ru/,No,,Government
+https://libgen.fun/,Yes,tcp_ip,File Sharing
+http://libgen.gs/,No,,File Sharing
+https://libgen.is/,No,,File Sharing
+http://libgen.lc/,No,,File Sharing
+http://libgen.li/,No,,File Sharing
+https://libgen.life/,Yes,tcp_ip,File Sharing
+https://libgen.me/,No,,File Sharing
+http://libgen.rs/,No,,File Sharing
+https://libgen.space/,No,,File Sharing
+http://libgen.st/,No,,File Sharing
+https://libgen.xyz/,No,,File Sharing
+https://limetorrents.pro/,No,,File Sharing
+https://login.infomaniak.com/,No,,File Sharing
+https://main.knesset.gov.il/,No,,Government
+https://mashable.com/,No,,Culture
+https://meretz.org.il/,No,,Government
+https://mfa.gov.il/MFA/Pages/default.aspx,No,,Government
+https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home,No,,File Sharing
+https://mirror.cyberbits.eu/fdroid/repo,No,,File Sharing
+http://multkasoft.com/,No,,File Sharing
+https://mymemory.translated.net/,No,,Culture
+https://newalbumreleases.net/,No,,File Sharing
+https://notesnook.com/,No,,File Sharing
+https://nsw2u.com/,No,,File Sharing
+https://plug-mirror.rcac.purdue.edu/fdroid/repo,No,,File Sharing
+https://pt.m.wikipedia.org/,No,,Culture
+https://pulse.internetsociety.org/,No,,Intergovernmental Organizations
+https://put.io/,No,,File Sharing
+https://radiofreetexas.com/,No,,Culture
+https://rapidgator.net/,No,,File Sharing
+https://rargb.to/,No,,File Sharing
+https://ru.wikipedia.org/,No,,Culture
+https://s.gr-assets.com/robots.txt,No,,Culture
+https://savefrom.net/,No,,File Sharing
+https://sci-hub.se/,No,,File Sharing
+https://sci.hubg.org/,No,,File Sharing
+http://shamela.ws/index.php,No,,Religion
+https://simple.wikipedia.org/,No,,Culture
+https://skiff.com/,No,,File Sharing
+https://soundcloud.com/,No,,Culture
+https://standardnotes.com/,No,,File Sharing
+https://subscene.com/,No,,Culture
+https://technoarabi.com/,No,,File Sharing
+https://thepiratebay.org/,Yes,http-failure,File Sharing
+https://uea.org/,No,,Culture
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Generic_Camera_Icon.svg/100px-Generic_Camera_Icon.svg.png,No,,Culture
+https://w3schools.com/,No,,Culture
+https://web.archive.org/,No,,Culture
+https://wikihow.com/,No,,Culture
+https://wikimapia.org/,No,,Culture
+https://wordpress.org/openverse/,No,,Hosting and Blogging Platforms
+https://www.2shared.com/,No,,File Sharing
+https://www.4shared.com/,No,,File Sharing
+http://www.5-yal.com/,No,,File Sharing
+https://www.911memorial.org/,No,,Culture
+http://www.acquisitionx.com/,No,,File Sharing
+http://www.adab.com/,No,,Culture
+https://www.af.mil/,No,,Government
+http://www.alapn.co/ar/,No,,Culture
+https://www.alarabydownloads.com/,No,,File Sharing
+https://www.aldiwan.net/,No,,Culture
+https://www.aljasraculture.com/,No,,Culture
+https://www.alsindibad.com/,No,,File Sharing
+https://www.alukah.net/,No,,Culture
+https://www.androidapps-ar.com/,No,,File Sharing
+http://www.appzplanet.com/,Yes,dns,File Sharing
+http://www.arabicpoems.com/,No,,Culture
+http://www.arabyarea.com/,No,,File Sharing
+https://www.arbprograms.com/,No,,File Sharing
+https://www.army.mil/,No,,Government
+http://www.aseansec.org/,No,,Government
+https://www.auswaertiges-amt.de/,No,,Government
+http://www.awttar.com/,No,,Culture
+https://www.beinsports.com/en/,Yes,http-failure,Culture
+http://www.bitcomet.com/,No,,File Sharing
+http://www.bittornado.com/,No,,File Sharing
+https://www.bme.com/,No,,Culture
+https://www.bramjfreee.com/,No,,File Sharing
+https://www.bramjzone.com/,No,,File Sharing
+http://www.centcom.mil/,No,,Government
+https://www.cia.gov/,No,,Government
+https://www.cis.minsk.by/,No,,Government
+http://www.collegehumor.com/,No,,Culture
+https://www.darpa.mil/,No,,Government
+https://www.datpiff.com/,No,,Culture
+https://www.dea.gov/,No,,Government
+https://www.deathmetal.org/,No,,Culture
+https://www.defense.gov/,No,,Government
+https://www.dia.mil/,No,,Government
+https://www.dictionary.com/,No,,Culture
+https://www.diwanalarab.com/,No,,Culture
+http://www.doniacomputer.com/,No,,File Sharing
+https://www.downloadprogramsline.com/,No,,File Sharing
+https://www.downloadxdriver.com/,No,,File Sharing
+https://www.dropbox.com/,No,,File Sharing
+https://www.epa.gov/,No,,Government
+https://www.esm3.com/,No,,File Sharing
+https://www.eventbrite.com/,No,,Culture
+https://www.fanfiction.net/,No,,Culture
+http://www.fsb.ru/,No,,Government
+https://www.fsf.org/,No,,Culture
+https://www.gawker.com/,No,,Culture
+https://www.givesendgo.com/,No,,Culture
+https://www.globalpolicy.org/,No,,Intergovernmental Organizations
+https://www.goodreads.com/,No,,Culture
+https://www.gov.uk/,No,,Government
+https://www.gutenberg.org/,No,,Culture
+https://www.hiamag.com/,No,,Culture
+https://www.hitler.org/,No,,Culture
+http://www.honduras.com/,No,,Culture
+https://www.iaru.org/,No,,Culture
+http://www.ibe.unesco.org/,No,,Intergovernmental Organizations
+https://www.icrc.org/en/home,No,,Government
+https://www.ideasbeyondborders.org/,No,,Culture
+https://www.idf.il/,No,,Government
+http://www.iea.org/,No,,Intergovernmental Organizations
+http://www.ifrc.org/,No,,Government
+http://www.ihr.org/,No,,Culture
+http://www.imdb.com/,No,,Culture
+https://www.interpol.int/,No,,Government
+http://www.isa.gov.il/,Yes,tcp_ip,Government
+https://www.isa.org.jm/,No,,Intergovernmental Organizations
+http://www.israel.com/,No,,Government
+https://www.jsf.mil/,No,,Government
+https://www.khanacademy.org/,No,,Culture
+http://www.kickassclassical.com/,No,,Culture
+https://www.libgen.tw/,No,,File Sharing
+https://www.likud.org.il/,No,,Government
+https://www.limetorrents.lol/,No,,File Sharing
+https://www.literotica.com/,Yes,http-failure,Culture
+https://www.lushstories.com/,No,,Culture
+https://www.marxists.org/,No,,Culture
+http://www.metal-archives.com/,No,,Culture
+https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage/,No,,Communication tools
+http://www.mnr.gov.cn/,No,,Government
+https://www.mo7pro.com/,No,,File Sharing
+http://www.mod.gov.il/,No,,Government
+https://www.mohmal.com/,No,,File Sharing
+https://www.mossad.gov.il/default.aspx,No,,Government
+https://www.mozilla.org/,No,,File Sharing
+https://www.mp3.com/,No,,Culture
+https://www.musixmatch.com/,No,,Culture
+http://www.nancyajram.com/,No,,Culture
+http://www.nato.int/,No,,Intergovernmental Organizations
+http://www.navy.mil/,No,,Government
+https://www.nbn.org.il/,No,,Government
+https://www.nsa.gov/,No,,Government
+http://www.opec.org/,No,,Intergovernmental Organizations
+https://www.overdrive.com/,No,,Culture
+http://www.pacom.mil/,No,,Government
+https://www.rarbg.to/,Yes,tcp_ip,File Sharing
+https://www.researchgate.net/,No,,Culture
+http://www.rollingstone.com/,No,,Culture
+https://www.sayidaty.net/,No,,Culture
+http://www.schwarzreport.org/,No,,Culture
+https://www.scribd.com/,No,,File Sharing
+http://www.sealswcc.com/,No,,Government
+https://www.serials.ws/,No,,File Sharing
+https://www.shazam.com/,No,,Culture
+http://www.slsknet.org/,No,,File Sharing
+http://www.socom.mil/,No,,Government
+http://www.southcom.mil/,No,,Government
+https://www.spotify.com/,No,,Culture
+https://www.state.gov/,No,,Government
+https://www.state.gov/j/drl/,No,,Government
+http://www.stratcom.mil/,No,,Government
+http://www.th3download.com/,No,,File Sharing
+http://www.theonion.com/,No,,Culture
+http://www.thissitedoesnotexist.co.il/,No,,Government
+https://www.timeout.com/,No,,Culture
+http://www.tmz.com/,No,,Culture
+https://www.un.int/,No,,Intergovernmental Organizations
+http://www.un.org/,No,,Intergovernmental Organizations
+http://www.un.org/docs/sc/,No,,Intergovernmental Organizations
+http://www.un.org/rights/,No,,Intergovernmental Organizations
+https://www.undp.org/,No,,Intergovernmental Organizations
+http://www.usafa.af.mil/,No,,Government
+http://www.uscg.mil/,No,,Government
+https://www.ushmm.org/,No,,Culture
+http://www.utorrent.com/,No,,File Sharing
+http://www.vibe.com/,No,,Culture
+https://www.videolan.org/,No,,File Sharing
+https://www.wfp.org/,No,,Intergovernmental Organizations
+https://www.wikipedia.org/,No,,Culture
+https://www.wiktionary.org/,No,,Culture
+http://www.xinjiang.gov.cn/,No,,Government
+http://www.xxlmag.com/,No,,Culture
+https://www.zahratalkhaleej.ae/,No,,Culture
+https://www.zoho.com/,No,,File Sharing
+https://x1337x.eu/,No,,File Sharing
+https://yts.lt/,No,,File Sharing
+https://yts.mx/,No,,File Sharing
+https://z-lib.org/,No,,File Sharing
+https://zh.wikipedia.org/,No,,Culture
+https://adultfriendfinder.com/,Yes,http-failure,Online Dating
+https://ahlam.net/,No,,Online Dating
+https://amphetamines.com/,No,,Alcohol and Drugs
+https://ar.aliexpress.com/,No,,Provocative Attire
+https://ar.dateforeal.com/,No,,Online Dating
+https://ar.drinkedin.net/,No,,Alcohol and Drugs
+https://arab-casino.org/,No,,Gambling
+https://arabcasino.co/,No,,Gambling
+https://arabcasinohex.com/,Yes,http-failure,Gambling
+https://arabian-live-casino.com/,Yes,tcp_ip,Gambling
+https://arabian-roulette.com/,Yes,tcp_ip,Gambling
+http://arabian-slotsx.com/,Yes,http-diff,Gambling
+http://arabianbetting.com/,Yes,http-diff,Gambling
+https://badoo.com/ar/dating/,No,,Social networking
+https://brayola.com/,No,,Provocative Attire
+https://btggaming.com/,No,,Gambling
+https://casinoarabian.com/,No,,Gambling
+https://casinocairo.com/,No,,Gambling
+https://centaurusint.net/,No,,Alcohol and Drugs
+https://dailystormer.in/,No,,Hate Speech
+https://drugs-forum.com/,No,,Alcohol and Drugs
+http://eg.daleel.waseet.net/,No,,Online Dating
+https://en-ae.namshi.com/,No,,Provocative Attire
+https://europedatingonline.com/,No,,Online Dating
+https://forum.grasscity.com/,Yes,http-failure,Alcohol and Drugs
+https://friendfinder.com/,No,,Online Dating
+https://godhatesfags.com/,No,,Hate Speech
+https://gulfbrandsinternational.com/,No,,Alcohol and Drugs
+https://heroin.org/,No,,Alcohol and Drugs
+https://hightimes.com/,Yes,http-failure,Alcohol and Drugs
+https://hotornot.com/ar/,No,,Online Dating
+https://howtogrowmarijuana.com/,Yes,http-failure,Alcohol and Drugs
+https://maps.org/,No,,Alcohol and Drugs
+https://medpot.net/,No,,Alcohol and Drugs
+https://msyaronline.com/,No,,Online Dating
+https://norml.org/,No,,Alcohol and Drugs
+https://nsdapao.info/,No,,Hate Speech
+https://online-casino-arabic.com/,No,,Gambling
+http://onlybingo.com/,Yes,http-diff,Gambling
+https://panties.com/,Yes,http-failure,Provocative Attire
+https://sa.made-in-china.com/co_cnjmint/,No,,Provocative Attire
+https://sports.betway.com/en/sports,Yes,http-failure,Gambling
+http://syria-dating.com/,No,,Online Dating
+http://talaki.com/,No,,Online Dating
+https://trashy.com/,Yes,http-failure,Provocative Attire
+https://uk.match.com/,No,,Online Dating
+http://vho.org/,No,,Hate Speech
+https://weedmaps.com/,Yes,http-failure,Alcohol and Drugs
+https://worldsingles.com/,No,,Online Dating
+https://www.3wishes.com/,Yes,http-failure,Provocative Attire
+http://www.4online-gambling.com/,No,,Gambling
+https://www.7alalcasino.com/,Yes,http-failure,Gambling
+http://www.888casino.com/,Yes,http-diff,Gambling
+https://www.a7lacasino.com/,No,,Gambling
+http://www.abcunderwear.com/,Yes,http-diff,Provocative Attire
+http://www.absinth.com/,No,,Alcohol and Drugs
+http://www.absolut.com/,No,,Alcohol and Drugs
+https://www.africanandeastern.com/,No,,Alcohol and Drugs
+https://www.agentprovocateur.com/,No,,Provocative Attire
+http://www.alnour.com.lb/,No,,Terrorism and Militants
+https://www.alqassam.ps/,No,,Terrorism and Militants
+https://www.americannaziparty.com/,No,,Hate Speech
+https://www.andubai.com/,No,,Gambling
+https://www.arabiccasinochoice.com/,No,,Gambling
+https://www.ariannelingerie.com/,No,,Provocative Attire
+http://www.asawer.net/,No,,Online Dating
+https://www.bacardi.com/,No,,Alcohol and Drugs
+http://www.barmeister.com/,No,,Alcohol and Drugs
+https://www.bat.com/,No,,Alcohol and Drugs
+http://www.beer.com/,Yes,http-diff,Alcohol and Drugs
+https://www.beerinfo.com/,No,,Alcohol and Drugs
+https://www.bestqatarcasinos.com/,No,,Gambling
+http://www.betfair.com/,No,,Gambling
+https://www.betrallyelarab.com/,No,,Online Dating
+http://www.blackjackinfo.com/,No,,Gambling
+https://www.blueskyswimwear.com/,Yes,http-failure,Provocative Attire
+http://www.budweiser.com/,No,,Alcohol and Drugs
+https://www.buydutchseeds.com/,Yes,http-failure,Alcohol and Drugs
+https://www.buzzarab.com/,No,,Online Dating
+https://www.cannaweed.com/,Yes,http-failure,Alcohol and Drugs
+https://www.casino-bahrain.com/,No,,Gambling
+https://www.casino.com/,Yes,http-failure,Gambling
+https://www.casinoar.com/,No,,Gambling
+https://www.casinoaraby.com/,No,,Gambling
+https://www.casinoarbi.com/,Yes,http-failure,Gambling
+https://www.casinoelarab.com/,No,,Gambling
+https://www.casinosenarabe.com.ar/,No,,Gambling
+http://www.casinotropez.com/,Yes,dns,Gambling
+https://www.casinotunisia.com/,Yes,http-failure,Gambling
+http://www.cdl.com.lb/,Yes,http-diff,Gambling
+http://www.chantelle.com/,No,,Provocative Attire
+http://www.coquette.com/,No,,Provocative Attire
+https://www.daloah.com/,No,,Provocative Attire
+http://www.date.com/,Yes,http-diff,Online Dating
+https://www.dating.com/,No,,Online Dating
+http://www.delicates.co.uk/,Yes,http-diff,Provocative Attire
+https://www.dextroverse.org/,Yes,http-failure,Alcohol and Drugs
+https://www.drinkies.net/,No,,Alcohol and Drugs
+https://www.drugsdata.org/,Yes,http-failure,Alcohol and Drugs
+http://www.drugsense.org/,Yes,http-diff,Alcohol and Drugs
+http://www.dubai-escort-list.com/,Yes,tcp_ip,Online Dating
+https://www.eharmony.com/,No,,Online Dating
+http://www.ekhetba.com/home.ar,No,,Online Dating
+http://www.ekhotoba.com/home.ar,No,,Online Dating
+https://www.elarabcasino.com/,No,,Gambling
+https://www.erowid.org/,No,,Alcohol and Drugs
+http://www.eurogrand.com/,No,,Gambling
+http://www.europacasino.com/,Yes,http-diff,Gambling
+http://www.evemodels.com/,Yes,dns,Online Dating
+http://www.fantasiawear.com/,Yes,http-diff,Provocative Attire
+http://www.figleaves.com/,No,,Provocative Attire
+https://www.finalarab.com/,No,,Gambling
+https://www.fredericks.com/,No,,Provocative Attire
+http://www.freshpair.com/,No,,Provocative Attire
+https://www.gambling.com/,Yes,http-failure,Gambling
+http://www.globalfire.tv/,No,,Hate Speech
+http://www.globet.com/,Yes,http-diff,Gambling
+https://www.goldenpalace.com/,Yes,http-failure,Gambling
+http://www.goldenrivieracasino.com/,Yes,http-diff,Gambling
+https://www.gulf-dating.com/,No,,Online Dating
+http://www.hanes.com/,No,,Provocative Attire
+https://www.inkeedo.com/,No,,Online Dating
+https://www.ipair.com/,No,,Online Dating
+http://www.jackdaniels.com/,No,,Alcohol and Drugs
+https://www.jackpotcitycasino1.com/,Yes,http-failure,Gambling
+https://www.jdate.com/,No,,Online Dating
+https://www.journelle.com/,No,,Provocative Attire
+https://www.kiabi.ae/,No,,Provocative Attire
+http://www.klmnyy.com/,No,,Online Dating
+https://www.klynn.com/,No,,Provocative Attire
+https://www.kuwait-casino.net/,No,,Gambling
+http://www.kyivfashion.kiev.ua/en,No,,Provocative Attire
+http://www.lasenza.com/,No,,Provocative Attire
+https://www.lavaplace.com/,Yes,http-failure,Online Dating
+https://www.leclos.net/,Yes,http-failure,Alcohol and Drugs
+https://www.lovehoney.de/,No,,Provocative Attire
+https://www.lovoo.com/,No,,Online Dating
+http://www.luckynugget.com/,Yes,http-diff,Gambling
+https://www.mashrobi.com/,Yes,http-failure,Alcohol and Drugs
+http://www.match.com/,No,,Online Dating
+https://www.meet-lebanese.com/ar/,No,,Online Dating
+https://www.metrodate.com/,Yes,http-failure,Online Dating
+https://www.miraclelingerie.ae/,No,,Provocative Attire
+http://www.mmidubai.com/,No,,Alcohol and Drugs
+https://www.modcloth.com/,No,,Provocative Attire
+http://www.moderndrunkardmagazine.com/,No,,Alcohol and Drugs
+http://www.monacogoldcasino.com/,Yes,tcp_ip,Gambling
+https://www.moqawama.org/,Yes,http-failure,Terrorism and Militants
+https://www.muslima.com/ar,No,,Online Dating
+https://www.nayomi.com/,No,,Provocative Attire
+http://www.neonjoint.com/,Yes,http-diff,Alcohol and Drugs
+https://www.nikahsearch.com/,No,,Online Dating
+https://www.nisfo.com/,No,,Online Dating
+https://www.okcupid.com/,No,,Online Dating
+http://www.online-dating.org/,No,,Online Dating
+http://www.onlinearabiccasino.com/,Yes,tcp_ip,Gambling
+https://www.onlinegambling.com/,Yes,http-failure,Gambling
+https://www.opioids.com/,No,,Alcohol and Drugs
+http://www.originalelf.com/,No,,Terrorism and Militants
+http://www.partypoker.com/,No,,Gambling
+https://www.partypoker.net/,Yes,http-failure,Gambling
+https://www.pmi.com/,No,,Alcohol and Drugs
+http://www.pof.com/,No,,Online Dating
+http://www.poker.com/,Yes,http-diff,Gambling
+http://www.pokerstars.com/,Yes,dns,Gambling
+https://www.qiran.com/,No,,Online Dating
+http://www.realbeer.com/,No,,Alcohol and Drugs
+http://www.reefclubcasino.com/,Yes,http-failure,Gambling
+http://www.riverbelle.com/,Yes,http-diff,Gambling
+http://www.rollitup.org/,Yes,http-diff,Alcohol and Drugs
+http://www.royalvegas.com/,Yes,http-diff,Gambling
+http://www.rxmarijuana.com/,Yes,http-diff,Alcohol and Drugs
+http://www.satp.org/,No,,Terrorism and Militants
+https://www.saudicasinos.com/,Yes,http-failure,Gambling
+https://www.selfridges.com/,No,,Alcohol and Drugs
+https://www.sharekomry.com/,No,,Online Dating
+https://www.sheikhcasinos.com/,Yes,http-failure,Gambling
+https://www.shroomery.org/,Yes,http-failure,Alcohol and Drugs
+http://www.slotland.com/,Yes,http-diff,Gambling
+https://www.soma.com/,No,,Provocative Attire
+https://www.soma.com/store/,No,,Provocative Attire
+https://www.soudfa.com/,No,,Online Dating
+https://www.spark.com/,No,,Online Dating
+http://www.speeddater.co.uk/,No,,Online Dating
+https://www.spicylingerie.com/,No,,Provocative Attire
+https://www.spinneysauh.com/,No,,Alcohol and Drugs
+http://www.spinpalace.com/,Yes,http-diff,Gambling
+https://www.splashfashions.com/,No,,Provocative Attire
+https://www.splashfashions.com/ae/en/,No,,Provocative Attire
+http://www.sportingbet.com/,Yes,http-failure,Gambling
+http://www.sportsinteraction.com/,No,,Gambling
+http://www.thegooddrugsguide.com/,No,,Alcohol and Drugs
+http://www.tobacco.org/,No,,Alcohol and Drugs
+https://www.toparabcasinos.com/,No,,Gambling
+http://www.topdrawers.com/,Yes,http-diff,Provocative Attire
+https://www.topkuwaitcasinos.com/,No,,Gambling
+https://www.tradefairdates.com/,No,,Provocative Attire
+https://www.tunisia-dating.com/,No,,Online Dating
+https://www.umnea.net/,No,,Online Dating
+http://www.vanguardnewsnetwork.com/,No,,Hate Speech
+http://www.venus.com/,No,,Provocative Attire
+https://www.victoriassecret.ae/en,No,,Provocative Attire
+https://www.victoriassecret.com/,No,,Provocative Attire
+https://www.viparabcasinos.com/,No,,Gambling
+http://www.winespectator.com/,No,,Alcohol and Drugs
+http://www.worldsexguide.com/,No,,Online Dating
+http://www.xn--mgbai3a1bycq.net/,No,,Online Dating
+https://www.yandy.com/,No,,Provocative Attire
+http://www.yazawaj.com/,No,,Online Dating
+https://www.zawaj.com/,No,,Online Dating
+https://www.zohradating.com/,No,,Online Dating
+https://xn--888-nze9cufxaqq.com/,No,,Gambling
+http://xn--mgbaad5cxb7deyuu.com/,No,,Gambling
+https://zaoag.net/,No,,Online Dating
+http://zawaghalal.com/,No,,Online Dating
+https://zawgaty.com/,Yes,http-failure,Online Dating
+http://zwaj-palestine.com/,No,,Online Dating
+http://abtalealdjazaire.ahlamontada.net/,No,,Hacking Tools
+http://alhacker.mam9.com/,No,,Hacking Tools
+https://alignpay.com/,No,,E-commerce
+https://aliqtisadi.com/,No,,Economics
+https://amwal-mag.com/,No,,Economics
+https://apis.google.com/robots.txt,No,,Control content
+https://aqarati.com/,No,,Economics
+https://astalavista.box.sk/,No,,Hacking Tools
+https://attrition.org/,No,,Hacking Tools
+https://bitcoin-mix.org/,No,,E-commerce
+https://bitcoin.org/,No,,E-commerce
+https://bitcoin.sipa.be/,No,,E-commerce
+http://bl4ck-ghost.hooxs.com/,No,,Hacking Tools
+https://blockdx.co/,No,,Economics
+https://blog.counter-strike.net/,No,,Gaming
+https://blog.mozilla.org/,No,,Hacking Tools
+https://brave.com/,No,,Hacking Tools
+https://breached.vc/,No,,Hacking Tools
+https://bughunters.google.com/,No,,Hacking Tools
+https://cdnjs.com/,No,,Hacking Tools
+https://chessduo.com/ar,No,,Gaming
+http://clients3.google.com/generate_204,No,,Control content
+https://clients5.google.com/robots.txt,No,,Control content
+https://coinmarketcap.com/,No,,Economics
+https://company.wizards.com/,No,,Gaming
+http://connect.rom.miui.com/generate_204,No,,Control content
+http://connectivitycheck.android.com/generate_204,No,,Control content
+http://connectivitycheck.gstatic.com/generate_204,No,,Control content
+https://cultdeadcow.com/,No,,Hacking Tools
+https://dashjr.org/,No,,E-commerce
+https://defcon.org/,No,,Hacking Tools
+http://detectportal.firefox.com/success.txt,No,,Control content
+http://dev-hack.ahlamontada.net/,No,,Hacking Tools
+https://dnsleaktest.com/,No,,Hacking Tools
+https://dnsviz.net/,No,,Hacking Tools
+https://doubleclick.net/,No,,E-commerce
+https://e-tejara.com/,No,,Economics
+https://earth.google.com/web/,No,,Control content
+http://egypt4hack.ahlamontada.com/,No,,Hacking Tools
+https://electrum.org/,No,,Economics
+https://en.miui.com/,No,,Hacking Tools
+https://epicgames.com/,No,,Gaming
+https://etherscan.io/,No,,E-commerce
+https://fedoramagazine.org/,No,,Hacking Tools
+http://game-game.ma/,No,,Gaming
+https://giganews.com/,No,,E-commerce
+http://hackerr.hooxs.com/forum,No,,Hacking Tools
+http://hackers.banouta.net/,No,,Hacking Tools
+http://hackerz.ahlamontada.net/,No,,Hacking Tools
+http://hakers.arabepro.com/,No,,Hacking Tools
+https://haraj.com.sa/,No,,Economics
+https://hawamer.com/,No,,Economics
+https://hodlhodl.com/,No,,Economics
+https://insecure.org/,No,,Hacking Tools
+https://kh.google.com/rt/earth/PlanetoidMetadata,No,,Control content
+https://khms0.google.com/kh/v=908?x=81&y=103&z=8,No,,Control content
+https://khms1.google.com/kh/v=908?x=327&y=414&z=10,No,,Control content
+https://kora.com/saudi-arabia/,No,,Control content
+https://krunker.io/,No,,Gaming
+https://localbitcoins.com/,No,,E-commerce
+https://localcryptos.com/,No,,Economics
+https://localmonero.co/,No,,Economics
+https://maps.gstatic.com/tactile/basepage/grid-image.png,No,,Control content
+https://matcha.xyz/,No,,Economics
+https://menafn.com/,No,,Economics
+https://metasploit.com/,No,,Hacking Tools
+https://moodle.org/,No,,E-commerce
+https://mtgryonline.com/,No,,Economics
+http://networkcheck.kde.org/,No,,Control content
+https://nmap.org/,No,,Hacking Tools
+http://nmcheck.gnome.org/check_network_status.txt,No,,Control content
+https://o0.ingest.sentry.io/api/0,No,,Control content
+https://olx.sa.com/,No,,Economics
+http://opportunity.org/,No,,Economics
+https://packetstormsecurity.com/,No,,Hacking Tools
+http://phrack.org/,No,,Hacking Tools
+http://ping.archlinux.org/,No,,Control content
+https://plan-uk.org/,No,,Economics
+https://repo1.maven.org/,No,,Control content
+https://rowadbusiness.com/,No,,Economics
+https://sa.opensooq.com/ar,No,,Economics
+https://sajjel.me/,No,,Control content
+https://saudi.vezeeta.com/ar,No,,Control content
+http://school-kings-hacker.7olm.org/,No,,Hacking Tools
+https://seclists.org/,No,,Hacking Tools
+https://sentry.io/api/0/,No,,Control content
+https://sourceforge.net/,No,,Hacking Tools
+https://sourceforge.net/projects/loic/,No,,Hacking Tools
+http://start.ubuntu.com/connectivity-check.html,No,,Control content
+https://store.steampowered.com/,No,,Gaming
+https://swift.org/,No,,Hacking Tools
+https://thehackernews.com/,No,,Hacking Tools
+https://toolbox.googleapps.com/,No,,Hacking Tools
+https://totaljerkface.com/,No,,Gaming
+https://trisquel.info/,No,,Hacking Tools
+https://uphold.com/,No,,E-commerce
+https://use-application-dns.net/,No,,Control content
+https://viptarneeb.com/,No,,Gaming
+https://wasabiwallet.io/,No,,Economics
+https://wkkf.org/,No,,Economics
+https://worldofwarcraft.com/,No,,Gaming
+https://www.2600.com/,No,,Hacking Tools
+http://www.337.com/ar/minigame,No,,Gaming
+https://www.akdn.org/,No,,Economics
+https://www.al-iqtisad.net/,Yes,tcp_ip,Economics
+https://www.alborsanews.com/,No,,Economics
+http://www.aleqt.com/,No,,Economics
+http://www.aljyyosh.com/vb/,Yes,http-diff,Hacking Tools
+https://www.alkebar.com/,No,,Control content
+https://www.alkrsan.net/forum/,No,,Hacking Tools
+https://www.amazon.com/,No,,E-commerce
+http://www.apple.com/library/test/success.html,No,,Control content
+https://www.apple.com/,No,,Control content
+http://www.aqarsaudi.com/,No,,Economics
+http://www.ar.obfog.com/,No,,Gaming
+https://www.arabianbusiness.com/,No,,Economics
+https://www.argaam.com/,No,,News Media
+https://www.babbel.com/,No,,E-commerce
+https://www.babsaudi.com/ar/index,No,,Economics
+http://www.barnesandnoble.com/,No,,E-commerce
+https://www.binance.com/,No,,E-commerce
+https://www.bitfinex.com/,No,,E-commerce
+http://www.blackhat.be/,No,,Hacking Tools
+https://www.blizzard.com/,No,,Gaming
+https://www.blockchain.com/,No,,Hacking Tools
+https://www.care.org/,No,,Economics
+https://www.ccc.de/,No,,Hacking Tools
+https://www.chess.com/,No,,Gaming
+https://www.chromium.org/,No,,Hacking Tools
+https://www.cnbcarabia.com/,No,,Economics
+https://www.coinbase.com/,No,,E-commerce
+https://www.coinex.com/,No,,Economics
+https://www.common-fund.org/,No,,Economics
+https://www.concern.net/,No,,Economics
+https://www.coolmathgames.com/,No,,Gaming
+https://www.craigslist.org/,No,,E-commerce
+https://www.crs.org/,No,,Economics
+http://www.cyber-pirates.org/,No,,Hacking Tools
+https://www.darknet.org.uk/,No,,Hacking Tools
+https://www.ddo.com/,No,,Gaming
+https://www.diwan.gov.qa/,No,,Control content
+https://www.doroob.sa/ar/,No,,Control content
+https://www.ea.com/,No,,Gaming
+https://www.ebay.com/,No,,E-commerce
+https://www.eccouncil.org/,No,,Hacking Tools
+https://www.elm.sa/ar/Pages/default.aspx,No,,Control content
+https://www.episcopalrelief.org/,No,,Economics
+https://www.esimsar.com/,No,,Economics
+https://www.essamalzamel.com/,No,,Economics
+https://www.eveonline.com/,No,,Gaming
+https://www.exploit-db.com/,No,,Hacking Tools
+https://www.f-list.net/,Yes,http-failure,Gaming
+http://www.feedtheminds.org/,No,,Economics
+https://www.forbesmiddleeast.com/,No,,Economics
+https://www.galilcol.ac.il/,No,,Control content
+https://www.gamespot.com/,No,,Gaming
+https://www.gamessakhr.com/,No,,Gaming
+https://www.gamku.com/,Yes,dns,Gaming
+https://www.gazprombank.ru/,No,,E-commerce
+https://www.genymotion.com/,No,,Hacking Tools
+https://www.globalgiving.org/,No,,Economics
+https://www.gmajid.com/,Yes,tcp_ip,Gaming
+https://www.gofundme.com/,No,,Economics
+https://www.groupon.com/,No,,E-commerce
+https://www.guildwars.com/,No,,Gaming
+https://www.habbo.com/,No,,Gaming
+http://www.hack-int.com/cc/,No,,Hacking Tools
+http://www.hackforums.net/,No,,Hacking Tools
+http://www.hackhull.com/,No,,Hacking Tools
+http://www.hacktivismo.com/,No,,Hacking Tools
+https://www.helvetas.ch/,No,,Economics
+https://www.idrc.ca/,No,,Economics
+http://www.idsoftware.com/,No,,Gaming
+https://www.ifad.org/,No,,Economics
+https://www.ifc.org/,No,,Economics
+http://www.imf.org/,No,,Economics
+https://www.international.gc.ca/,No,,Economics
+https://www.internetsociety.org/,No,,Economics
+https://www.jarir.com/sa-en/,No,,Control content
+https://www.jawaker.com/,No,,Gaming
+https://www.kali.org/,No,,Hacking Tools
+https://www.kbs-frb.be/,No,,Economics
+https://www.kraken.com/,No,,E-commerce
+https://www.kucoin.com/,No,,E-commerce
+https://www.maaal.com/,No,,Economics
+https://www.macfound.org/,No,,Economics
+https://www.malwares.com/,No,,Hacking Tools
+https://www.mcit.gov.sa/,No,,Control content
+http://www.msftconnecttest.com/connecttest.txt,No,,Control content
+http://www.msftncsi.com/ncsi.txt,No,,Control content
+http://www.nmrc.org/,No,,Hacking Tools
+https://www.origin.com/,No,,Gaming
+http://www.othaimmalls.com/Default.aspx?lang=ar,No,,Control content
+https://www.othaimmarkets.com/splash,No,,Control content
+https://www.oxfam.org/,No,,Economics
+https://www.paralleleconomy.com/,No,,E-commerce
+https://www.paypal.com/,No,,E-commerce
+http://www.pcgamer.com/,No,,Gaming
+http://www.phenoelit.org/,No,,Hacking Tools
+https://www.pogo.com/,No,,Gaming
+https://www.prayer-times.info/,No,,Control content
+https://www.progressio.org.uk/,No,,Economics
+https://www.pubg.com/,No,,Gaming
+https://www.qatarairways.com/,No,,Economics
+http://www.qu.edu.qa/,No,,Control content
+http://www.rbf.org/,No,,Economics
+http://www.riftgame.com/,No,,Gaming
+https://www.roblox.com/,No,,Gaming
+http://www.rockstargames.com/,No,,Gaming
+https://www.rowadalaamal.com/,No,,Economics
+http://www.runescape.com/,No,,Gaming
+https://www.sa.zain.com/,No,,Control content
+https://www.saudia.com/,No,,Control content
+http://www.saudigulfairlines.com/ar/home,No,,Control content
+http://www.securityfocus.com/,No,,Hacking Tools
+http://www.securitytracker.com/,No,,Hacking Tools
+https://www.shoot-sa.com/,No,,Control content
+https://www.shopgo.me/ar/,No,,Economics
+http://www.sida.se/,No,,Economics
+https://www.sodas.sa/,No,,Control content
+http://www.sportksa.net/main/,No,,Control content
+http://www.square-enix.com/,No,,Gaming
+https://www.swa.gov.sa/ar/,No,,Control content
+https://www.tase.co.il/en,No,,E-commerce
+https://www.thegeekdiary.com/,No,,Hacking Tools
+https://www.uber.com/,No,,E-commerce
+https://www.ubisoft.com/,No,,Gaming
+http://www.unlockme.co.uk/,No,,Hacking Tools
+https://www.usaid.gov/,No,,Economics
+http://www.v4-team.com/cc/index.php,No,,Hacking Tools
+https://www.walmart.com/,No,,E-commerce
+https://www.weforum.org/,No,,Economics
+https://www.westernunion.com/,No,,E-commerce
+https://www.wmtransfer.com/,No,,E-commerce
+http://www.worldbank.org/,No,,Economics
+https://www.xbox.com/,No,,Gaming
+https://www.zawya.com/,No,,Economics
+http://www.zone-h.org/,No,,Hacking Tools
+https://xe.com/,No,,E-commerce
+https://zid.sa/,No,,Economics
+https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,No,,Social networking
+https://gab.com/,No,,Social networking
+https://scontent-ams4-1.cdninstagram.com/favicon.ico,No,,Social networking
+https://scontent.xx.fbcdn.net/robots.txt,No,,Social networking
+https://upload.twitter.com/robots.txt,No,,Social networking
+https://www.4chan.org/,No,,Social networking
+https://www.linkedin.com/,No,,Social networking
+http://aden-post.com/,Yes,http-diff,News Media
+http://alwaght.com/,Yes,tcp_ip,News Media
+http://anonymouse.org/,Yes,http-diff,Anonymization and circumvention tools
+https://api.protonvpn.ch/tests/ping,No,,Anonymization and circumvention tools
+http://beyondexgay.com/,No,,LGBT
+http://gaytoday.com/,Yes,http-diff,LGBT
+https://getintra.org/,No,,Anonymization and circumvention tools
+https://googleweblight.com/i?u=https%3A%2F%2Fexample.com%2F,No,,Anonymization and circumvention tools
+http://hrlibrary.umn.edu/iwraw/,No,,Human rights issues
+https://ilga.org/,No,,LGBT
+https://kaserproxy.net/,No,,Anonymization and circumvention tools
+http://khabir.net/,Yes,http-diff,Political Criticism
+http://lgbtmap.org/,No,,LGBT
+https://makeamazonpay.com/,No,,Political Criticism
+https://mask-api.icloud.com/,No,,Anonymization and circumvention tools
+https://mega.nz/,No,,Anonymization and circumvention tools
+https://messagevortex.net/,No,,Anonymization and circumvention tools
+https://mullvad.net/,Yes,http-failure,Anonymization and circumvention tools
+https://occupystreams.org/,No,,Political Criticism
+https://onionshare.org/,No,,Anonymization and circumvention tools
+https://ooni.org/,No,,Human rights issues
+https://orbot.app/,No,,Anonymization and circumvention tools
+https://pen.org/rapid-action/saudi-arabia-imprisoned-blogger-raif-badawi-may-face-death-penalty/,No,,Human rights issues
+https://pflag.org/,No,,LGBT
+https://pirateparty.org.au/,No,,Political Criticism
+https://privatevpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://proton.me/,No,,Communication tools
+https://protonvpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://proxify.com/,Yes,http-failure,Anonymization and circumvention tools
+http://proxytools.sourceforge.net/,Yes,http-diff,Anonymization and circumvention tools
+https://psiphon.ca/,Yes,http-failure,Anonymization and circumvention tools
+https://remailer.paranoici.org/,No,,Anonymization and circumvention tools
+http://ria.ru/,No,,News Media
+https://riseup.net/,No,,Anonymization and circumvention tools
+https://rsf.org/,No,,Human rights issues
+https://rtr-planeta.com/,Yes,tcp_ip,News Media
+http://russia.tv/,Yes,tcp_ip,News Media
+https://safervpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://sandbox.cryptpad.info/,No,,Anonymization and circumvention tools
+https://secfirst.org/,No,,Human rights issues
+https://securevpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://securevpn.im/,No,,Anonymization and circumvention tools
+https://slate.com/,No,,Political Criticism
+https://spys.one/,No,,Anonymization and circumvention tools
+https://strongvpn.com/,Yes,http-failure,Anonymization and circumvention tools
+https://tails.net/,No,,Anonymization and circumvention tools
+http://tajdeed.org.uk/,Yes,http-diff,Political Criticism
+http://tdov.org/,No,,LGBT
+https://theglobalobservatory.org/2019/07/mandate-renewal-independent-expert-sogi-at-risk/,No,,LGBT
+https://theintercept.com/,No,,News Media
+https://thelenspost.com/,Yes,http-failure,News Media
+https://thunder.free-signal.com/,Yes,http-failure,Anonymization and circumvention tools
+https://transequality.org/,No,,LGBT
+http://transsexual.org/,Yes,http-diff,LGBT
+https://trustvpn.me/,No,,Anonymization and circumvention tools
+https://twitter.com/jkhashoggi,No,,Social networking
+https://twitter.com/m3takl,No,,Social networking
+https://tyt.com/,No,,News Media
+https://ultrasurf.us/,Yes,http-failure,Anonymization and circumvention tools
+https://unpo.org/,No,,Human rights issues
+https://veracrypt.fr/,No,,Anonymization and circumvention tools
+https://vgtrk.ru/,No,,News Media
+https://waleedabulkhairar.wordpress.com/,No,,Human rights issues
+https://womeninblack.org/,No,,Human rights issues
+http://www.1tv.ru/,No,,News Media
+https://www.ahram.org.eg/,No,,News Media
+https://www.alarabiya.net/,No,,News Media
+http://www.alazd.net/,No,,News Media
+https://www.alhadathonline.org/,No,,News Media
+http://www.alhramain.com/,Yes,http-diff,Political Criticism
+http://www.almdarnews.net/,No,,News Media
+http://www.alnournews.net/,No,,News Media
+https://www.alsulta-alrabea.com/index.php,No,,News Media
+https://www.amnesty.be/infos/actualites/article/amnesty-poursuit-son-action-pour?lang=fr,No,,Human rights issues
+http://www.anonymizer.ru/,Yes,http-diff,Anonymization and circumvention tools
+http://www.anonymsurfen.com/,Yes,http-diff,Anonymization and circumvention tools
+https://www.apt.ch/,No,,Human rights issues
+http://www.baath-party.org/,No,,Political Criticism
+https://www.benarnews.org/,No,,Human rights issues
+https://www.brookings.edu/,No,,Human rights issues
+https://www.btselem.org/,No,,Human rights issues
+https://www.caritas.org/,No,,Human rights issues
+https://www.change.org/,No,,Human rights issues
+https://www.csidonline.org/,No,,Political Criticism
+https://www.dd-rd.ca/,No,,Human rights issues
+https://www.derechos.org/,No,,Human rights issues
+https://www.dopplr.com/,No,,News Media
+http://www.drudgereport.com/,No,,News Media
+https://www.economist.com/,No,,News Media
+http://www.edu.gov.qa/Ar/Pages/Home.aspx,No,,News Media
+https://www.eff.org/,No,,Human rights issues
+https://www.esohr.org/,Yes,http-failure,Human rights issues
+https://www.fondationdefrance.org/,No,,Political Criticism
+http://www.fordfound.org/,No,,Human rights issues
+https://www.francemediasmonde.com/,No,,News Media
+http://www.freeexpression.org/,No,,News Media
+https://www.gearthblog.com/,No,,News Media
+http://www.google.com/search?q=transsexual,No,,LGBT
+https://www.grindr.com/,Yes,http-failure,LGBT
+http://www.heritage.org/,No,,Political Criticism
+https://www.hidemyass.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.hizb-ut-tahrir.org/,No,,Political Criticism
+http://www.hourriya-tagheer.org/,Yes,http-diff,Political Criticism
+http://www.hrea.org/,No,,Human rights issues
+https://www.hrw.org/,No,,Human rights issues
+http://www.iaffe.org/,Yes,http-failure,Human rights issues
+http://www.ijm.org/,No,,Human rights issues
+http://www.inetprivacy.com/,Yes,http-diff,Anonymization and circumvention tools
+https://www.infomigrants.net/,No,,Human rights issues
+http://www.k1b1.com/,No,,News Media
+https://www.lds.org/,No,,Human rights issues
+http://www.learningpartnership.org/,No,,Human rights issues
+https://www.lgbtqnation.com/,No,,LGBT
+https://www.mideastyouth.com/,No,,News Media
+http://alarabiya24.com/,Yes,http-diff,News Media
+http://fj-p.com/,Yes,http-diff,Political Criticism
+http://www.arabicmagazine.com/arabic/,No,,News Media
+http://www.awraqpress.net/portal/,Yes,http-diff,News Media
+https://www.binzaid.gov.qa/,No,,News Media
+http://www.khabaronline.ir/,No,,News Media
+https://ahwaa.org/?lang=ar,Yes,http-failure,LGBT
+https://alaraby.tv/,Yes,http-failure,News Media
+http://althawrah.ye/,Yes,http-diff,News Media
+http://alwelayah.net/,No,,News Media
+https://mandabpress.com/,No,,News Media
+http://mokawamah.net/portal/,No,,News Media
+http://saadahpress.net/news/,Yes,http-diff,News Media
+http://saudislgbt.tumblr.com/,Yes,http-diff,LGBT
+http://siasatrooz.ir/ar/,No,,News Media
+https://thepeninsulaqatar.com/,No,,News Media
+https://www.aa.com.tr/ar,No,,News Media
+http://omidnameh.com/,No,,News Media
+http://www.al-jazirah.com/,No,,News Media
+http://kayhan.ir/,Yes,http-diff,News Media
+https://www.buzzarab.com/chat/gay-arabs/,No,,Online Dating
+http://www.dubaihotties.org/,No,,LGBT
+https://ikhwanonline.info/,Yes,http-failure,Political Criticism
+http://www.al-watan.com/,No,,News Media
+https://www.alarab.qa/,No,,News Media
+https://www.homochat.org/ar/,Yes,tcp_ip,LGBT
+http://www.arabprogs.com/,No,,Anonymization and circumvention tools
+https://thenewkhalij.news/,Yes,http-failure,News Media
+http://asrararabiya.com/,No,,Political Criticism
+http://www.islamtoday.net/,No,,News Media
+http://www.helem.net/,Yes,http-diff,LGBT
+https://mahjooob.com/,Yes,http-failure,Anonymization and circumvention tools
+http://www.danielpipes.org/,No,,Political Criticism
+http://www.freearabvoice.org/,No,,Political Criticism
+https://arabfcn.net/,No,,News Media
+https://www.alquds.co.uk/,Yes,http-failure,News Media

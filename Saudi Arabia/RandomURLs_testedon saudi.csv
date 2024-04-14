@@ -1,0 +1,111 @@
+URL,Blocked,Blocking Method,category
+https://russia.tv/,Yes,tcp_ip,news media
+https://www.chinatimes.com/?chdtv,No,,news media
+https://www.mideastyouth.com/,No,,news media
+https://rt.com/,No,,news media
+https://www.theguardian.com/,No,,news media
+https://www.nytimes.com/,No,,news media
+https://www.arabnews.com/,No,,news media
+http://hournews.net/,Yes,http-diff,news media
+http://xinhuanet.com/,No,,news media
+https://www.france24.com/,No,,news media
+https://www.ohmynews.com/,No,,news media
+https://edition.cnn.com/,No,,news media
+https://putinbog.wordpress.com/,No,,news media
+https://1plus1.ua/,No,,news media
+https://www.sabanews.net/,No,,news media
+https://www.hurriyetdailynews.com/,Yes,dns,news media
+https://www.aljazeera.net/,No,,news media
+http://sputniknews.ru/,No,,news media
+https://www.dailysabah.com/,Yes,http-failure,news media
+https://www.irishtimes.com/,No,,news media
+https://www.state.gov/,No,,Government/political criticism
+https://www.socom.mil/,No,,Government/political criticism
+https://www.icrc.org/,No,,Government/political criticism
+https://www.defense.gov/,No,,Government/political criticism
+https://www.dia.mil/,No,,Government/political criticism
+https://www.cia.gov/,No,,Government/political criticism
+https://www.dea.gov/,No,,Government/political criticism
+https://www.xinjiang.gov.cn/,No,,Government/political criticism
+https://www.ikhwanonline.com/,Yes,http-failure,Government/political criticism
+http://www.csidonline.org/,No,,Government/political criticism
+https://www.clintonfoundation.org/,No,,Government/political criticism
+https://www.churchofeuthanasia.org/,Yes,http-failure,Government/political criticism
+https://www.hizb-ut-tahrir.org/,No,,Government/political criticism
+https://carnegieendowment.org/,No,,Government/political criticism
+https://ndi.org/,No,,Government/political criticism
+https://occupystreams.org/,No,,Government/political criticism
+https://pirateparty.org.au/,No,,Government/political criticism
+https://www.jihadwatch.org/,Yes,http-failure,Government/political criticism
+https://www.cga.gov.tw/,No,,Government/political criticism
+https://www.ey.gov.tw/,No,,Government/political criticism
+https://www.ocac.gov.tw/ocac/,No,,Government/political criticism
+https://interpol.int/,No,,Government/political criticism
+https://www.epa.gov/,No,,Government/political criticism
+http://mnp.am/,No,,Government/political criticism
+http://crimea.gov.ru/,No,,Government/political criticism
+https://rk.gov.ru/,No,,Government/political criticism
+https://mil.ru/,No,,Government/political criticism
+https://moz.gov.ua/,No,,Government/political criticism
+https://korea-dpr.com/,No,,Government/political criticism
+https://www.india.gov.in/,No,,Government/political criticism
+https://www.grindr.com/,Yes,http-failure,LGBTQ+
+http://queernet.org/,Yes,http-diff,LGBTQ+
+https://beyondexgay.com/,No,,LGBTQ+
+https://transsexual.org/,Yes,http-failure,LGBTQ+
+https://gaytoday.com/,Yes,http-failure,LGBTQ+
+https://transequality.org/,No,,LGBTQ+
+https://hornet.com/,Yes,dns,LGBTQ+
+https://76crimes.com/,No,,LGBTQ+
+https://www.thepinknews.com/,No,,LGBTQ+
+https://gaymenshealth.org/,No,,LGBTQ+
+https://lgbtnewsnow.org/,No,,LGBTQ+
+https://www.out.com/,No,,LGBTQ+
+https://humanityinaction.org/,No,,LGBTQ+
+https://www.openlynews.com/,No,,LGBTQ+
+https://www.outsports.com/,No,,LGBTQ+
+https://www.samesexmarriage.ca/,Yes,http-failure,LGBTQ+
+https://brothersroad.org/,No,,LGBTQ+
+https://www.globalgayz.com/,No,,LGBTQ+
+https://ilga-europe.org/,No,,LGBTQ+
+https://queerussia.info/,No,,LGBTQ+
+https://www.paddypower.com/bet,Yes,http-failure,Gambling
+https://1xbet64.com/,No,,Gambling
+https://www.betvictor.com/,Yes,http-failure,Gambling
+https://sports.bwin.com/,Yes,http-failure,Gambling
+https://www.partypoker.net/,Yes,http-failure,Gambling
+https://www.gambling.com/,Yes,http-failure,Gambling
+https://www.888casino.com/,Yes,dns,Gambling
+https://www.royalvegascasino.com/,Yes,http-failure,Gambling
+http://www.russiancasino.com/,No,,Gambling
+https://betway.com/en-ie/,Yes,http-failure,Gambling
+https://en.goldenrivieracasino.com/,Yes,http-failure,Gambling
+https://poker.com/,Yes,http-failure,Gambling
+http://onlinearabiccasino.com/,Yes,tcp_ip,Gambling
+https://www.williamhill.com/,Yes,http-failure,Gambling
+https://www.bet365.com/,Yes,http-failure,Gambling
+https://www.boylesports.com/,Yes,http-failure,Gambling
+https://www.betano.com/,No,,Gambling
+https://bosscasino.eu/,Yes,http-failure,Gambling
+https://1xbet.ie/,No,,Gambling
+https://tipwin.de/,Yes,http-failure,Gambling
+https://www.facebook.com/,No,,Social media & entertainment
+https://www.linkedin.com/,No,,Social media & entertainment
+https://4chan.org/,No,,Social media & entertainment
+https://www.instagram.com/,No,,Social media & entertainment
+https://www.whatsapp.com/,No,,Social media & entertainment
+https://www.youtube.com/,No,,Social media & entertainment
+https://www.snapchat.com/,No,,Social media & entertainment
+https://www.viber.com/en/,Yes,http-failure,Social media & entertainment
+https://www.wechat.com/,No,,Social media & entertainment
+https://badoo.com/,No,,Social media & entertainment
+https://www.clubhouse.com/,No,,Social media & entertainment
+https://www.meetup.com/,No,,Social media & entertainment
+https://weibo.com/,No,,Social media & entertainment
+https://www.blizzard.com/,No,,Social media & entertainment
+https://pubg.com/,No,,Social media & entertainment
+https://www.chess.com/,No,,Social media & entertainment
+https://www.tiktok.com/,No,,Social media & entertainment
+https://tinder.com/,No,,Social media & entertainment
+https://www.douyin.com/,No,,Social media & entertainment
+https://patogh.me/,No,,Social media & entertainment

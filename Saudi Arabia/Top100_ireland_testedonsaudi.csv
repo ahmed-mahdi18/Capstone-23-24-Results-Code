@@ -1,0 +1,101 @@
+URL,Blocked,Blocking Method,Categories
+https://www.google.com,No,,Search Engines
+https://www.youtube.com,No,,Media Sharing
+https://www.facebook.com,No,,Social Networking
+https://twitter.com,No,,Social Networking
+https://www.google.ie,No,,Search Engines
+https://www.instagram.com,No,,Media Sharing
+https://www.independent.ie,No,,News Media
+https://www.reddit.com/?rdt=50584,No,,Social Networking
+https://www.wikipedia.org,No,,Culture
+https://www.amazon.co.uk,No,,Commerce
+https://www.linkedin.com,No,,Social Networking
+https://www.rte.ie,No,,News Media
+https://rip.ie,No,,Culture
+https://www.irishtimes.com,No,,News media
+https://www.daft.ie,No,,Real Estate
+https://aib.ie,No,,Finance
+https://www.donedeal.ie,No,,Commerce
+https://www.tiktok.com/,No,,Social Networking
+https://www.openai.com/,No,,Corporate/ Business solutions
+https://www.dailymail.co.uk/,No,,News media
+https://www.office.com/,No,,Corporate/ Business solutions
+https://www.bbc.com/,No,,News Media
+https://www.thesun.ie/,No,,News Media
+https://www.yahoo.com/,No,,Search Engines
+https://www.theguardian.com/,No,,News Media
+https://www.next.ie/,No,,Commerce
+https://www.duckduckgo.com/,No,,Search Engines
+https://www.live.com/,No,,Media Sharing
+https://www.booking.com/,No,,Travel
+https://www.ros.ie/,No,,Government
+https://www.amazon.com/,No,,Commerce
+https://www.irishmirror.ie/,No,,News Media
+https://www.indeed.com/,No,,Job search
+https://www.google.co.uk/,No,,Search Engines
+https://www.tripadvisor.ie/,No,,Travel
+https://www.microsoftonline.com/,No,,Corporate/ Business solutions
+https://www.boards.ie/,No,,News Media
+https://www.imdb.com/,No,,Media Sharing
+https://www.netflix.com/,No,,Media Sharing
+https://www.irishexaminer.com/,No,,News Media
+https://www.thejournal.ie/,No,,News Media
+https://www.adverts.ie/,No,,Commerce
+https://www.dunnesstores.com/,No,,Commerce
+https://www.ryanair.com/,No,,Travel
+https://www.irishrail.ie/,No,,Travel
+https://www.sky.com/,No,,Media Sharing
+https://www.twitch.tv/,No,,Social Networking
+https://www.microsoft.com/,No,,Corporate/ Business solutions
+https://www.dublinlive.ie/,No,,News Media
+https://www.sharepoint.com/,No,,Corporate/ Business solutions
+https://www.bbc.co.uk/,No,,News Media
+https://discord.com,No,,Social Networking
+https://www.ebay.ie,No,,Commerce
+https://www.fandom.com,No,,Social Networking
+https://www.skyscanner.ie,No,,Travel
+https://www.extra.ie/,No,,News Media
+https://www.nytimes.com,No,,News Media
+https://www.whatsapp.com/,No,,Communication tools
+https://www.bing.com,No,,Search Engines
+https://www.news.sky.com/,No,,News Media
+https://www.myhome.ie,No,,Commerce
+https://www.ticketmaster.ie,No,,Commerce
+https://www.echolive.ie,No,,News Media
+https://www.paypal.com/,No,,Finance
+https://www.notion.so,No,,Education
+https://www.met.ie/,No,,Enviromantal
+https://www.etsy.com/,No,,Commerce
+https://www.lottery.ie,Yes,http-failure,Gambling
+https://www.premierleague.com/,No,,Media Sharing
+https://www.quora.com,No,,Social Networking
+https://www.rsvplive.ie,No,,News Media
+https://www.paddypower.com,Yes,http-failure,Gambling
+https://imgur.com/,No,,Social Networking
+https://www.ikea.com,No,,Commerce
+https://www.github.com/,No,,Technology
+https://www.ebay.co.uk/,No,,Commerce
+https://www.corkbeo.ie/,No,,News Media
+https://www.anpost.com/,No,,Commerce
+https://www.chess.com/,No,,Games 
+https://www.mirror.co.uk/,No,,News Media
+https://www.three.ie/,No,,Commerce
+https://www.temu.com/,No,,Commerce
+https://www.limerickleader.ie/,No,,News Media
+https://www.lidl.ie/,No,,Commerce
+https://www.revenue.ie/,No,,Government
+https://www.mumsnet.com/,No,,News Media
+https://www.loveholidays.ie/,No,,Travel
+https://www.galwaybeo.ie/,No,,News Media
+https://www.airbnb.ie/,No,,Travel
+https://www.ucd.ie/,No,,Education
+https://www.tesco.ie/,No,,Commerce
+https://open.spotify.com,No,,Media Sharing
+https://www.currys.ie,No,,Commerce
+https://www.boots.ie,No,,Commerce
+https://www.healthline.com,No,,Public health
+https://www.bet365.com/,Yes,http-failure,Gambling
+https://www.gov.ie/,No,,Government
+https://www.aerlingus.com/,No,,Travel
+https://www.sportinglife.com,No,,News Media
+https://www.redcafe.net/,No,,News Media
